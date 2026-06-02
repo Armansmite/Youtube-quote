@@ -1,0 +1,199 @@
+{"qoute" : "The Admiralty has demanded six, The Treasury said we could only have four so we compromised on eight." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "A love of tradition has never weakened a nation, indeed it has strengthened nations in their hour of peril; but the new view must come, the world must roll forward... Let us have no fear of the future." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "The English never draw a line without blurring it." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "I see it is said that leaders should keep their ears to the ground. All I can say is that the British nation will find it very hard to look up to the leaders who are detected in that somewhat ungainly posture." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Don’t get torpedoed; for if I am left alone your colleagues will eat me." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Reconstructing a Cabinet is like solving a kaleidoscopic jigsaw puzzle." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "An announcement of a prospective surplus is always a milestone in a budget." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Everyone threw blame on me. I have noticed that they nearly always do. I suppose it is because they think I shall be able to bear it best." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "If this is a blessing, it is certainly very well disguised." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Why should I accept the Order of the Garter from His Majesty when people have just given me the Order of the Boot?" , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Their will was resolute and remorseless, and as it proved, unconquerable. It fell to me to express it." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "The British nation is unique in this respect: they are the only people who like to be told how bad things are, who like to be told the worst." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "We shall not be judged by the criticisms of our opponents but by the consequences of our acts." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Politics is the ability to foretell what is going to happen tomorrow, next week, next month and next year. And to have the ability afterwards to explain why it didn’t happen." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "For my own part I have always felt that a politician is to be judged by the animosities which he excites among his opponents. I have always set myself not merely to relish but to deserve thoroughly their censure." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "It would be a great reform in politics if wisdom could be made to spread as easily and as rapidly as folly." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "The inherent vice of capitalism is the unequal sharing of blessings. The inherent virtue of socialism is the equal sharing of miseries." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "The whole history of the world is summed up in the fact that when nations are strong they are not always just, and when they wish to be just they are often no longer strong." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "An appeaser is one who feeds a crocodile – hoping it will eat him last." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "To think you can make a man richer by putting on a tax is like a man standing in a bucket and trying to pull himself up by the handles." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "All the greatest things are simple, and many can be expressed in a single word: freedom; justice; honour; duty; mercy; hope." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Government of the duds, by the duds and for the duds." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Change is agreeable to the human mind, and gives satisfaction, sometimes short-lived, to ardent and anxious public opinion." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "The best argument against democracy is a five-minute conversation with the average voter." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "I don’t see any way of realising our hopes for a world organisation in six days. Even the Almighty took seven." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "He is asked to stand, he wants to sit, he is expected to lie." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Things do not get better by being let alone. Unless they are adjusted, they explode with a shattering detonation." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Democracy is more vindictive than Cabinets." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Never hold discussions with the monkey when the organ grinder is in the room." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "One can always consult a man and ask him, ‘Would you like your head cut off tomorrow?’ and after he has said, ‘I would rather not,’ cut it off. ‘Consultation’ is a vague and elastic term." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Those who can win a war well can rarely make a good peace, and those who could make a good peace would never have won the war." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "The problems of victory are more agreeable than those of defeat, but they are no less difficult." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "We must always be ready to make sacrifices for the great causes; only in that way shall we live to keep our souls alive." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "The best evidence of the fairness of any settlement is the fact that it fully satisfies neither party." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "In wartime, truth is so precious that she should always be attended by a bodyguard of lies." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "We have not journeyed all this way across the centuries, across the oceans, across the mountains, across the prairies, because we are made of sugar candy." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "I am sure that the mistakes of that time will not be repeated; we should probably make another set of mistakes." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Nothing is more costly, nothing is more sterile, than vengeance." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "If Hitler invaded Hell, I would make at least a favourable reference to the Devil in the House of Commons." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "When you have to kill a man it costs nothing to be polite." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Any clever person can make plans for winning a war if he has no responsibility for carrying them out." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "How many wars have been precipitated by firebrands! How many misunderstandings which led to wars could have been removed by temporising! How often have countries fought cruel wars and then after a few years found themselves not only friends but allies!" , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "If you go on with this nuclear arms race, all you are going to do is make the rubble bounce." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Never in the field of human conflict was so much owed by so many to so few." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "It is dangerous to meddle with Admirals when they say they can’t do things. They have always got the weather or fuel or something to argue about." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "It is better to perish than to live as slaves." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "To build may have to be the slow and laborious task of years. To destroy can be the thoughtless act of a single day." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "One day President Roosevelt told me that he was asking publicly for suggestions about what the war should be called. I said at once ‘The Unnecessary War’." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "The statesman who yields to war fever must realise that once the signal is given, he is no longer the master of policy but the slave of unforeseeable and uncontrollable events." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Never give in. Never give in. Never, never, never, never – in nothing, great or small, large or petty – never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "The greatest lesson in life is to know that even fools are right sometimes." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Never stand so high upon a principle that you cannot lower it to suit the circumstances." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "What is adequacy? Adequacy is no standard at all." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Courage is rightly esteemed the first of human qualities because it has been said; it is the quality which guarantees all others." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Every day you make progress. Every step may be fruitful. Yet there will stretch out before you an ever-lengthening, ever-ascending, ever-improving path. You know you will never get to the end of the journey. But this, so far from discouraging, only adds to the joy and the glory of the climb." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "It is better to be making the news than taking it, to be an actor rather than a critic." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "There is always much to be said for not attempting more than you can do and for making a certainty of what you try. But this principle, like others in life and war, has its exceptions." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Every man should ask himself each day whether he is not too readily accepting negative solutions." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "It is wonderful what great strides can be made when there is a resolute purpose behind them." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "In finance, everything that is agreeable is unsound and everything that is sound is disagreeable." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Dogs look up to you, cats look down on you. Give me a pig – he just looks you in the eye and treats you as an equal." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "It is not enough that we do our best; sometimes we have to do what is required." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Nourish your hopes, but do not overlook realities." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "It is a fine thing to be honest, but it is also very important to be right." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "How little we should worry about anything except doing our best." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "I am ready to meet my Maker. Whether my Maker is prepared for the great ordeal of meeting me is another matter." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "For myself I am an optimist – It does not seem to be much use being anything else." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "When I look back on all these worries I remember the story of the old man who said on his deathbed that he had had a lot of trouble in his life, most of which had never happened." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "I pass with relief from the tossing sea of Cause and Theory to the firm ground of Result and Fact." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "I decline utterly to be impartial as between the fire brigade and the fire." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Anyone can rat, but it takes a certain amount of ingenuity to re-rat." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Everything tends towards catastrophe and collapse. I am interested, geared up and happy. Is it not horrible to be built like that?" , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Often in the casual remarks of great men one learns their true mind in an intimate way." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "One always measures friendships by how they show up in bad weather." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "When the eagles are silent, the parrots begin to jabber." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Rare and precious is the truly disinterested man." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Who was Socrates, anyhow? A very argumentative Greek who had a nagging wife and was finally compelled to commit suicide because he was a nuisance! Still, he was beyond doubt a considerable person." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "I hate nobody except Hitler – and that is professional." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "It is the habit of the boa constrictor to besmear the body of his victim with a foul slime before he devours it; and there are many people in England, and perhaps elsewhere, who seem to be unable to contemplate military operations for clear political objects, unless they can cajole themselves into the belief that their enemy are utterly and hopelessly vile." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "We have always found the Irish a bit odd. They refuse to be English." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "I want no criticism of America at my table. The Americans criticise themselves more than enough." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "He ought to be lain bound hand and foot at the gates of Delhi, and then trampled on by an enormous elephant with the new Viceroy seated on its back." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "One mark of a great man is the power of making lasting impressions upon people he meets." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "The empires of the future are the empires of the mind." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Dictators ride to and fro on tigers from which they dare not dismount. And the tigers are getting hungry." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Money is like manure; it’s only good if you spread it around." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "You don’t make the poor richer by making the rich poorer." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "The finest combination in the world is power and mercy. The worst combination in the world is weakness and strife." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "A fanatic is one who can’t change his mind and won’t change the subject." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "It is more agreeable to have the power to give than the need to receive." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Si vous m’obstaclerez, je vous liquiderai. (If you obstacle me, I will liquidate you.)" , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Perhaps it is better to be irresponsible and right than to be responsible and wrong." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "But on the whole it is wise in human affairs, and in the government of men, to separate pomp from power." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "As long as the job is done, it does not matter much who gets the credit." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of government except all those other forms that have been tried from time to time." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "It is wonderful how well men can keep secrets they have not been told." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Some people regard private enterprise as a predatory tiger to be shot. Others look on it as a cow they can milk. Not enough people see it as a healthy horse, pulling a sturdy wagon." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Always be on guard against tyranny, whatever shape it may assume." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Strength is granted to us all when we are needed to serve great causes." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Healthy citizens are the greatest asset any country can have." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Everyone is in favour of free speech... but some people’s idea of it is that they are free to say what they like, but if anyone else says anything back, that is an outrage." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "... be the ordeal sharp or long, we shall seek no terms, we shall tolerate no parlay; we may show mercy – we shall ask for none." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "We are waiting for the long-promised invasion. So are the fishes." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "When danger is far off we may think of our weakness; when it is near we must not forget our strength." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Learn to get used to it. Eels get used to skinning." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "It was the nation and the race dwelling all round the globe that had the lion’s heart: I had the luck to be called upon to give the roar." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "There is only one thing worse than fighting with allies, and that is fighting without them." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "The flying peril is not a peril from which one can fly. It is necessary to face it where we stand. We cannot possibly retreat. We cannot move London." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "You must put your head in the lion’s mouth if the performance is to be a success." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "We must just KBO." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "If one has to submit it is wasteful not to do so with the best grace possible." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "We shall go on to the end, we shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our Island, whatever the cost may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "A remarkable and definite victory. The bright gleam has caught the helmets of our soldiers and warmed and cheered all our hearts." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "You ask, what is our aim? I can answer in one word. It is victory, victory at all costs, victory in spite of all terror, victory, however long and hard the road may be; for without victory, there is no survival." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Let us therefore brace ourselves to our duties, and so bear ourselves that if the British Empire and its Commonwealth last for a thousand years, men will still say, ‘This was their finest hour.’" , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "In war: resolution. In defeat: defiance. In victory: magnanimity. In peace: good will." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "These are not dark days: these are great days – the greatest days our country has ever lived." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "We must all turn our backs upon the horrors of the past. We must look to the future. We cannot afford to drag forward across the years that are to come the hatreds and revenges which have sprung from the injuries of the past." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "He hopes, by killing large numbers of civilians, and women and children, that he will terrorise and cow the people of this mighty imperial city... Little does he know the spirit of the British nation, or the tough fibre of the Londoners." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Success consists of going from failure to failure without loss of enthusiasm." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "There are a terrible lot of lies going about the world, and the worst is that half of them are true." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "We have a lot of anxieties, and one cancels out another very often." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "A man is about as big as the things that make him angry." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "In Russia a man is called reactionary if he objects to having his property stolen and his wife and children murdered." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "It is much better to set up an objective, even if it be beyond your reach, than it is to give up the struggle at the outset." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "One ought never to turn one’s back on threatened danger and try to run away from it. If you do that you will double the danger. But if you meet it promptly and without flinching, you will reduce the danger by half." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Out of intense complexities, intense simplicities emerge." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Dangers which are warded off and difficulties which are overcome before they reach a crisis are utterly unrecognised. Eaten bread is soon forgotten." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Nothing in life is so exhilarating as to be shot at without result." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "If we look back on our past life we shall see that one of its most usual experiences is that we have been helped by our mistakes." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "It is never necessary to commit suicide, especially when you may live to regret it." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Woe betide the leaders now perched on their dizzy pinnacles of triumph if they cast away at the conference table what the soldiers had won on a hundred blood-soaked battlefields." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "We are still masters of our fate. We are still captains of our souls." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Kites rise highest against the wind – not with it." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "It is easier to break crockery than to mend it." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "The power of the Executive to cast a man into prison without formulating any charge known to the law and particularly to deny him the judgement of his peers is in the highest degree odious and is the foundation of all totalitarian government whether Nazi or Communist." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "A man does what he must – in spite of personal consequences, in spite of obstacles and dangers and pressures – and that is the basis of all human morality." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "The first duty of the university is to teach wisdom, not a trade; character not technicalities. We want a lot of engineers in the modern world, but we do not want a world of engineers." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Personally I am always ready to learn, although I do not always like being taught." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "It is a good thing for an uneducated man to read books of quotations." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "But now I pity undergraduates, when I see what frivolous lives many of them lead in the midst of precious fleeting opportunity. After all, a man’s life must be nailed to a cross either of Thought or Action." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Criticism may not be agreeable, but it is necessary. It fulfils the same function as pain in the human body. It calls attention to an unhealthy state of things." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "It is not pleasant to feel oneself so completely outclassed and left behind at the very beginning of the race." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "I had a feeling once about Mathematics, that I saw it all – Depth beyond Depth was revealed to me… It was like politics. But it was after dinner, and I let it go!" , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Where my reason, imagination or interest were not engaged, I would not or I could not learn." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "These examinations were a great trial to me… I should have liked to be asked to say what I knew. They always tried to ask what I did not know." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Writing a book is an adventure. To begin with, it is a toy and an amusement; then it becomes a mistress, and then it becomes a master, and then a tyrant. The last phase is that... you kill the monster, and fling him out to the public." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Study history, study history. In history lies all the secrets of statecraft." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "In life’s steeplechase one must always jump the fences when they come." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "A hopeful disposition is not the sole qualification to be a prophet." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "We are happier in many ways when we are old than when we are young. The young sow wild oats, the old grow sage." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "There is nothing wrong in change, if it is in the right direction. To improve is to change." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "We shape our buildings, and afterwards our buildings shape us." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Everyone has his day, and some days last longer than others." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "What is the use of living, if it be not to strive for noble causes and to make this muddled world a better place to live in after we are gone?" , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Death is the greatest gift that God has made to us." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Where there is great power there is great responsibility." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "You will make all kinds of mistakes; but as long as you are generous and true, and also fierce, you cannot hurt the world or even seriously distress her." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "It is a mistake to look too far ahead. Only one link in the chain of destiny can be handled at a time." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "One ought to be just before one is generous." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Some people will deny anything. But there are some denials that do not alter the facts." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Nothing should be done for spite’s sake." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Sometimes when [Fortune] scowls most spitefully, she is preparing her most dazzling gifts." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "You don’t want to knock a man down except to pick him up in a better frame of mind." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Without work there is no play." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Too often the strong, silent man is silent only because he does not know what to say, and is reputed strong only because he has remained silent." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "When you have to hold a hot coffee pot, it is better not to break the handle off." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Usually youth is for freedom and reform, maturity for judicious compromise, and old age for stability and repose." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "No folly is more costly than the folly of intolerant idealism." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "A woman is as old as she looks; a man is as old as he feels; and a boy is as old as he is treated." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "When you get a thing the way you want it, leave it alone." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Broadly speaking, human beings may be divided into three classes: those who are billed to death, those who are worried to death, and those who are bored to death." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "… live dangerously; take things as they come; dread naught, all will be well." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "The glory of light cannot exist without its shadows." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "Difficulties mastered are opportunities won." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "There is only one duty, one safe course, and that is to try to be right and not to fear to do or say what you believe to be right." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing had happened." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "We are masters of the unsaid words, but slaves of those we let slip out." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "In the course of my life I have often had to eat my words, and I must confess that I have always found it a wholesome diet." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "He has… the gift of compressing the largest amount of words into the smallest amount of thought." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "I remember when I was a child, being taken to the celebrated Barnum’s circus, which contained an exhibition of freaks and monstrosities. But the exhibit on the programme which I most desired to see was the one described as ‘The Boneless Wonder’. My parents judged that that spectacle would be too revolting and demoralising for my youthful eyes, and I have waited fifty years to see the Boneless Wonder sitting on the Treasury Bench." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "A modest man who has much to be modest about." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "He looks like a female llama who has just been surprised in her bath." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Baldwin was a remarkable man. I like to make people do what I wish. Baldwin liked to do what they wanted." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "Like the grub that feeds on the Royal Jelly and thinks it’s a Queen Bee." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "He is the only case I know of a bull who carries around his own china shop with him." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "I always hate to compare Napoleon with Hitler, as it seems an insult to the great Emperor and warrior to connect him in any way with a squalid caucus boss and butcher." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "He had all the virtues I dislike and none of the vices I admire." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "His chest is a cage in which two squirrels are at war – his conscience and his career." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "I can well understand the Honourable Member’s wishing to speak on. He needs the practice badly." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "I have never seen a human being who more perfectly represented the modern concept of a robot." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "A prisoner of war is a man who tries to kill you and fails, and then asks you not to kill him." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "He is a foul-weather friend." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "This cat does more for the war effort than you do. He acts as a hot-water bottle and saves fuel and power." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "I do not challenge the honourable gentlemen when the truth leaks out of him from time to time." , "writer" : "Winston Churchill", "subject" : "Politics"}
+{"qoute" : "This Treasury paper, by its very length, defends itself against the risk of being read." , "writer" : "Winston Churchill", "subject" : "Politics"}
