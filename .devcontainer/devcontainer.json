@@ -1,0 +1,12 @@
+{
+  "name": "Shorts Bot Worker",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install moviepy pillow google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client requests",
+  "remoteUser": "root",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
