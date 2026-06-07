@@ -2,7 +2,16 @@ import os, sys, json, time, requests, random, re, glob, warnings, traceback
 from datetime import datetime, timedelta
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
-from moviepy.editor import ImageClip, AudioFileClip
+
+# MoviePy v2 import – if this fails, try the old import
+try:
+    from moviepy import ImageClip, AudioFileClip
+except ImportError:
+    try:
+        from moviepy.editor import ImageClip, AudioFileClip
+    except ImportError:
+        raise ImportError("Could not import MoviePy. Please install moviepy>=2.0.0")
+
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
@@ -19,7 +28,7 @@ def send_log(msg):
     except:
         pass
 
-# ---------- Token & settings ----------
+# ---------- Token & settings (same as before) ----------
 def download_token():
     send_log("📥 Downloading token from dashboard...")
     r = requests.get(DASHBOARD_URL + "api/token")
@@ -37,7 +46,9 @@ def get_settings():
         raise Exception("Could not fetch settings")
     return r.json()
 
-# ---------- V1 helpers (same as always) ----------
+# ---------- All other helper functions (load_processed, mark_processed, find_images, etc.) ----------
+# (Copy them from the previous full worker_github.py – they are identical and I include them here for completeness)
+
 def load_processed():
     if not os.path.exists("processed.txt"): return set()
     with open("processed.txt", "r") as f:
@@ -178,15 +189,13 @@ def get_config_module(active_config):
     sys.path.insert(0, os.getcwd())
     return __import__(f"configs.{active_config}", fromlist=["create_video"])
 
-# ---------- Main bot ----------
+# ---------- Main bot (same processing loop as before) ----------
 def main():
     send_log("🚀 GitHub Actions worker started.")
 
-    # 1. Download token
     if not download_token():
         return
 
-    # 2. Load credentials
     with open("token.json", "r") as f:
         creds = Credentials.from_authorized_user_info(json.load(f))
 
@@ -202,7 +211,6 @@ def main():
         send_log("❌ Invalid token.")
         return
 
-    # 3. Fetch settings
     settings = get_settings()
     active_config = settings.get("active_config", "classic")
     max_videos = settings.get("max_videos", 0) or None
@@ -216,7 +224,6 @@ def main():
 
     slot_tuples = [(int(h), int(m)) for h, m in (s.split(":") for s in slots)]
 
-    # 4. Import config module
     try:
         config_module = get_config_module(active_config)
         create_video_fn = config_module.create_video
@@ -224,7 +231,6 @@ def main():
         send_log(f"❌ Failed to import config '{active_config}': {e}")
         return
 
-    # 5. Process quotes
     processed = load_processed()
     send_log(f"Already processed: {sorted(processed)}")
     if not os.path.exists("quote.txt"):
@@ -326,7 +332,6 @@ def main():
         video_path = os.path.join(os.getcwd(), video_name)
         thumb_path = os.path.join(os.getcwd(), thumb_name)
 
-        # Create video using the selected config
         try:
             create_video_fn(quote, writer, subject, image_path, music_path, video_path)
             send_log(f"✅ Created {video_name}")
@@ -334,7 +339,6 @@ def main():
             send_log(f"❌ Line {line_idx}: creation failed – {e}. Skipping.")
             continue
 
-        # Upload
         try:
             title = f"{quote} – {writer}"[:100]
             description = (
