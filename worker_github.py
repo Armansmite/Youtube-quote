@@ -3,14 +3,10 @@ from datetime import datetime, timedelta
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
-# MoviePy v2 import – if this fails, try the old import
 try:
     from moviepy import ImageClip, AudioFileClip
 except ImportError:
-    try:
-        from moviepy.editor import ImageClip, AudioFileClip
-    except ImportError:
-        raise ImportError("Could not import MoviePy. Please install moviepy>=2.0.0")
+    from moviepy.editor import ImageClip, AudioFileClip
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -19,7 +15,7 @@ from googleapiclient.http import MediaFileUpload
 
 warnings.filterwarnings("ignore")
 
-DASHBOARD_URL = os.environ["DASHBOARD_URL"].rstrip("/") + "/"
+DASHBOARD_URL = os.environ.get("DASHBOARD_URL", "https://pwa-gqoh.onrender.com").rstrip("/") + "/"
 
 def send_log(msg):
     print(msg, flush=True)
@@ -28,7 +24,6 @@ def send_log(msg):
     except:
         pass
 
-# ---------- Token & settings (same as before) ----------
 def download_token():
     send_log("📥 Downloading token from dashboard...")
     r = requests.get(DASHBOARD_URL + "api/token")
@@ -46,9 +41,7 @@ def get_settings():
         raise Exception("Could not fetch settings")
     return r.json()
 
-# ---------- All other helper functions (load_processed, mark_processed, find_images, etc.) ----------
-# (Copy them from the previous full worker_github.py – they are identical and I include them here for completeness)
-
+# ---------- All V1 helper functions (identical to your Colab version) ----------
 def load_processed():
     if not os.path.exists("processed.txt"): return set()
     with open("processed.txt", "r") as f:
@@ -156,40 +149,12 @@ def draw_text_with_stroke(draw, text, xy, font, text_color, stroke_color, stroke
                 draw.text((x+dx, y+dy), text, font=font, fill=stroke_color)
     draw.text((x, y), text, font=font, fill=text_color)
 
-def build_text_frame(image, quote, writer):
-    img = image.copy()
-    draw = ImageDraw.Draw(img)
-    max_width = 1080 - 2 * 100
-    lines = split_quote_two_lines(quote)
-    quote_size = best_font_size(lines, max_width)
-    quote_font = load_font(quote_size)
-    writer_size = max(int(quote_size * 0.6), 12)
-    writer_font = load_font(writer_size)
-    line_height = quote_font.getbbox("Ag")[3] - quote_font.getbbox("Ag")[1]
-    total_height = line_height * len(lines) + (len(lines)-1)*10
-    start_y = 700 - total_height // 2
-    for i, line in enumerate(lines):
-        bbox = draw.textbbox((0,0), line, font=quote_font)
-        line_w = bbox[2] - bbox[0]
-        line_x = (1080 - line_w) // 2
-        line_y = start_y + i * (line_height + 10)
-        draw_text_with_stroke(draw, line, (line_x, line_y),
-                              quote_font, (255,255,255), (0,0,0), 4)
-    writer_text = f"- {writer}"
-    writer_bbox = draw.textbbox((0,0), writer_text, font=writer_font)
-    writer_w = writer_bbox[2] - writer_bbox[0]
-    writer_x = (1080 - writer_w) // 2
-    writer_y = start_y + total_height + 30
-    draw_text_with_stroke(draw, writer_text, (writer_x, writer_y),
-                          writer_font, (255,255,255), (0,0,0), 4)
-    return img
-
 # ---------- Dynamic config import ----------
 def get_config_module(active_config):
     sys.path.insert(0, os.getcwd())
     return __import__(f"configs.{active_config}", fromlist=["create_video"])
 
-# ---------- Main bot (same processing loop as before) ----------
+# ---------- Main ----------
 def main():
     send_log("🚀 GitHub Actions worker started.")
 
@@ -332,13 +297,15 @@ def main():
         video_path = os.path.join(os.getcwd(), video_name)
         thumb_path = os.path.join(os.getcwd(), thumb_name)
 
+        # Call the config's create_video – now with duration & fade
         try:
-            create_video_fn(quote, writer, subject, image_path, music_path, video_path)
+            create_video_fn(quote, writer, subject, image_path, music_path, video_path, total_duration, fade_duration)
             send_log(f"✅ Created {video_name}")
         except Exception as e:
             send_log(f"❌ Line {line_idx}: creation failed – {e}. Skipping.")
             continue
 
+        # Upload (unchanged)
         try:
             title = f"{quote} – {writer}"[:100]
             description = (
