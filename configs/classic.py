@@ -1,10 +1,10 @@
-# configs/classic.py
-# Classic V1 style – fade-in, white text with black stroke, Garamond font
+import os
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 from moviepy import ImageClip, AudioFileClip, vfx
 
-def create_video(quote, writer, subject, image_path, music_path, output_path, total_duration=7, fade_duration=2):
+def create_video(quote, writer, subject, image_path, music_path, output_path,
+                 total_duration=7, fade_duration=2):
     # --- Image preparation ---
     pil_img = Image.open(image_path).convert("RGB")
     target_w, target_h = 1080, 1920
@@ -17,11 +17,10 @@ def create_video(quote, writer, subject, image_path, music_path, output_path, to
     top = (new_h - target_h) // 2
     pil_img = pil_img.crop((left, top, left + target_w, top + target_h))
 
-    # --- Text rendering (identical to V1) ---
     draw = ImageDraw.Draw(pil_img)
     max_width = target_w - 200
 
-    # Font (same fallback chain as before)
+    # --- Font loading (same fallback as before) ---
     font = None
     if os.path.exists("Garamond.ttf"):
         try:
@@ -29,12 +28,14 @@ def create_video(quote, writer, subject, image_path, music_path, output_path, to
         except:
             pass
     if font is None:
-        for path in ["/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf",
-                     "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf",
-                     "C:/Windows/Fonts/times.ttf",
-                     "C:/Windows/Fonts/georgia.ttf",
-                     "/System/Library/Fonts/Supplemental/Times New Roman.ttf",
-                     "/System/Library/Fonts/Georgia.ttf"]:
+        for path in [
+            "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf",
+            "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf",
+            "C:/Windows/Fonts/times.ttf",
+            "C:/Windows/Fonts/georgia.ttf",
+            "/System/Library/Fonts/Supplemental/Times New Roman.ttf",
+            "/System/Library/Fonts/Georgia.ttf",
+        ]:
             if os.path.isfile(path):
                 try:
                     font = ImageFont.truetype(path, 1)
@@ -44,7 +45,7 @@ def create_video(quote, writer, subject, image_path, music_path, output_path, to
     if font is None:
         font = ImageFont.load_default()
 
-    # Auto‑size text (same binary search as your V1 helper)
+    # --- Auto‑size helper ---
     def best_size(text_lines, max_w):
         low, high = 10, 200
         best = low
@@ -54,7 +55,7 @@ def create_video(quote, writer, subject, image_path, music_path, output_path, to
             fits = True
             for line in text_lines:
                 bbox = draw.textbbox((0, 0), line, font=f)
-                if bbox[2] - bbox[0] > max_w:
+                if (bbox[2] - bbox[0]) > max_w:
                     fits = False
                     break
             if fits:
@@ -64,7 +65,7 @@ def create_video(quote, writer, subject, image_path, music_path, output_path, to
                 high = mid - 1
         return best
 
-    # Split quote into two lines (same logic)
+    # --- Split quote into two lines ---
     words = quote.split()
     if len(words) <= 1:
         lines = [quote]
@@ -85,7 +86,7 @@ def create_video(quote, writer, subject, image_path, music_path, output_path, to
     writer_size = max(int(quote_size * 0.6), 12)
     writer_font = font.font_variant(size=writer_size)
 
-    # Draw text with stroke (identical stroke function)
+    # --- Stroke helper ---
     def draw_text_with_stroke(text, xy, f, text_color, stroke_color, stroke_width):
         x, y = xy
         for dx in range(-stroke_width, stroke_width + 1):
@@ -103,30 +104,28 @@ def create_video(quote, writer, subject, image_path, music_path, output_path, to
         line_w = bbox[2] - bbox[0]
         line_x = (target_w - line_w) // 2
         line_y = start_y + i * (line_height + 10)
-        draw_text_with_stroke(line, (line_x, line_y), quote_font, (255, 255, 255), (0, 0, 0), 4)
+        draw_text_with_stroke(line, (line_x, line_y), quote_font,
+                              (255, 255, 255), (0, 0, 0), 4)
 
     writer_text = f"- {writer}"
     writer_bbox = draw.textbbox((0, 0), writer_text, font=writer_font)
     writer_w = writer_bbox[2] - writer_bbox[0]
     writer_x = (target_w - writer_w) // 2
     writer_y = start_y + total_text_height + 30
-    draw_text_with_stroke(writer_text, (writer_x, writer_y), writer_font, (255, 255, 255), (0, 0, 0), 4)
+    draw_text_with_stroke(writer_text, (writer_x, writer_y), writer_font,
+                          (255, 255, 255), (0, 0, 0), 4)
 
     # --- MoviePy v2 clip creation ---
     img_array = np.array(pil_img)
     clip = ImageClip(img_array).with_duration(total_duration)
-
-    # Apply fade-in if fade_duration > 0
     if fade_duration > 0:
         clip = clip.with_effects([vfx.FadeIn(fade_duration)])
 
-    # Audio
     audio = AudioFileClip(music_path)
     if audio.duration > total_duration:
         audio = audio.subclipped(0, total_duration)
     clip = clip.with_audio(audio)
 
-    # Write output
     clip.write_videofile(
         output_path,
         fps=30,
