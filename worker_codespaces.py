@@ -10,33 +10,37 @@ from googleapiclient.http import MediaFileUpload
 
 warnings.filterwarnings("ignore")
 
-# Log to both dashboard and local file
+DASHBOARD_URL = os.environ.get("DASHBOARD_URL", "").rstrip("/") + "/"
+CODESPACE_NAME = os.environ.get("CODESPACE_NAME")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "Armansmite/Youtube-quote")
+
 LOG_FILE = "/tmp/worker.log"
 
 def send_log(msg):
     print(msg, flush=True)
+    with open(LOG_FILE, "a") as f:
+        f.write(f"[{datetime.utcnow().isoformat()}] {msg}\n")
     try:
-        with open(LOG_FILE, "a") as f:
-            f.write(f"[{datetime.utcnow().isoformat()}] {msg}\n")
-    except:
-        pass
-    try:
-        requests.post(os.environ["DASHBOARD_URL"].rstrip("/") + "/api/log",
-                      json={"message": msg}, timeout=5)
+        requests.post(DASHBOARD_URL + "api/log", json={"message": msg}, timeout=5)
     except:
         pass
 
-# Start logging immediately
-send_log("🚀 Worker started. Log file at /tmp/worker.log")
+# Send a log immediately to prove the worker is running
+send_log("🚀 Worker started inside Codespace")
 
-# ... (include all other helper functions exactly as before, no changes)
+# ... (all the other functions: download_token, get_settings, helpers, etc.)
+# They must be exactly the same as in your previous working worker.
 
 def main():
     try:
-        # ... (your existing main logic, unchanged)
-        # Ensure every important step calls send_log(...)
+        if not download_token():
+            send_log("❌ No token on dashboard")
+            return
+        # ... rest of processing
+        send_log("🏁 Finished")
     except Exception as e:
-        send_log(f"❌ Fatal error: {traceback.format_exc()}")
+        send_log(f"❌ Error: {traceback.format_exc()}")
 
 if __name__ == "__main__":
     main()
