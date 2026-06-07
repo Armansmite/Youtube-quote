@@ -1,0 +1,26 @@
+name: Run YouTube Shorts Bot
+
+on:
+  repository_dispatch:
+    types: [start_bot]
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install moviepy pillow google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client requests
+
+      - name: Run bot worker
+        env:
+          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+        run: python worker_github.py
