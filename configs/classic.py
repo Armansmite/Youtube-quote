@@ -126,6 +126,7 @@ def create_video(quote, writer, subject, image_path, music_path, output_path,
         audio = audio.subclipped(0, total_duration)
     clip = clip.with_audio(audio)
 
+    # REMOVED verbose=False and logger=None
     clip.write_videofile(
         output_path,
         fps=30,
@@ -133,8 +134,6 @@ def create_video(quote, writer, subject, image_path, music_path, output_path,
         audio_codec="aac",
         temp_audiofile="temp-audio.m4a",
         remove_temp=True,
-        verbose=False,
-        logger=None,
     )
     clip.close()
     audio.close()
