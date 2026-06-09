@@ -1,0 +1,1329 @@
+{"qoute" : "To know men is to be wise, to know oneself is to be illuminated." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To conquer men is to have strength, to conquer oneself is to be stronger still." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It is better to suffer wrong than to do it, and happier to be sometimes cheated than not to trust." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Everything that happens was once a dream." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Those who come to wisdom through failure tend to be good people for that very reason." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is about learning to keep those people who hate you as far away as possible from those who are as yet undecided." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Mind moves matter." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Nothing good ever ends." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The great man does not think beforehand of his words that they may be sincere, nor of his actions that they may be resolute; he simply speaks and does what is right." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We stumble and fall constantly even when we are most enlightened. But when we are in true spiritual darkness, we do not even know that we have fallen." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Life is doing things, not making things." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The problems of today will only be solved when we resolve ourselves to focus on tomorrow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There can be no true success in a world of mediocrity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A leader who does not hesitate before he sends his nation into battle is not fit to be a leader." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Only by his actions can a man make himself and his life whole." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Each individual is responsible for what they have done and for the people they have influenced." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A man's own natural duty, even if it seems imperfectly done, is better than work not naturally his own, even if it is well-performed." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is not wise to be reckless with others, or to stand alone, stubborn against the multitude." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Have the courage to be wise—the path of wisdom is not an easy one to follow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Genius is about developing the ability to perceive in an unhabitual way." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is possible to act in a way that will give your friends no occasion for regret and your foes no cause for joy." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The heart seems to have its reasons which even reason cannot understand." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We can become wise only when we have learned to regard all men as equal. There can be no wisdom in prejudice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The most crucial step toward solving a problem is to be able to recognize yourself as part of the problem." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The first duty of men is to take none of the principles of conduct upon trust and to do nothing without a clear and individual conviction that it is right to be done." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We must use time creatively, in the knowledge that the time is always ripe to do right." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The candle of love may burn out quickly but the flame of wisdom will burn forever." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are those who seek to destroy and discredit you. Let them try, they can only make you stronger." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Knowledge is the ultimate antidote to fear." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Wisdom can only be acquired by the sustained development of an inquiring mind." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Forgiveness is a permanent state of being, not just an occasional act." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "From hearing comes wisdom, from speaking, repentance." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No man is born wise, wisdom cannot be learned, it is a journey of discovery where the destination remains unknown." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Nothing in life can be profitable to you that makes you break a promise." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Morality is the observance of the rights of others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Early to bed and early to rise makes a man healthy, wealthy, and wise." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom goes not always by years." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Like the bee gathering honey from different flowers, the wise man accepts the essence of different Scriptures and sees only the good in all religions." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is neither inheritance nor legacy." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man is more to be envied than a rich man." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Without wisdom, wealth is worthless." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Want of wisdom is more to be pitted than want of possessions." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A wise man never needs a weapon. The mind is mightier than the fist." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man is never less alone than when he is by himself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Well goes the case when wisdom counsels." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is the most invincible kind of strength, it lends the highest authority to action." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Don't concentrate on the folly of others—he is not wise who is not wise for himself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom teaches the value of things and the wise person cares not for what they cannot have." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is a great point of wisdom to find out one's own folly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Learning is not wisdom—you can learn to pick a lock or steal a neighbor's car but it would be wiser to do neither." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Riches serve a wise man but command a fool." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The fool wanders, the wise man travels." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise seek wisdom, a fool has found it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "He that is a wise man by day is no fool by night." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A wise man may change his mind frequently while the fool stands fast, determined not to do so." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A wise man needs not blush for changing his purpose." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No man can play the fool so well as the wise man." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise propose, but fools determine." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Reason governs the wise man and cudgels the fool." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The first degree of folly is to hold oneself wise, the second to profess it, the third to despise counsel." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Trouble brings experience and experience brings wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom will only increase with attempts made to destroy it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No one can be wise at all times, and even the wisest man may fall." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Next time you consider fleeing from a problem, consider the acorn. It stood firm and it became an oak tree." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Before you can hope to be wise you must start at the very beginning, and learn to see things as they truly are." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Problems need solutions. Solutions breed new problems." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Salvation is a process that begins on earth and ends in eternity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The process of salvation must come from within." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Salvation is not putting a man into heaven, but putting heaven into a man." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The cure for false theology is common sense." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We are reborn into this world every time we wake; there is daily the chance to make a new start and live a new life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A thing cannot be and not be. Do not be fooled by illusion and false promises." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is about looking outward as much as looking inward, and looking forward as much as looking backward." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "With every opportunity that is missed, another one is born." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Most duels have their winner but the one that will go on forever is the duel between yes and no." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can melt ice to make cold water, you can heat the cold water to make hot water, but it cannot be all three at once." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Freedom travels slowly—from precedent to precedent." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Wisdom lies in knowing when, and when not, to act." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is knowing which questions to ask." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise person knows that no answer is also an answer." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Complete wisdom is as rare as complete folly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man will always make more opportunities than he finds." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't be so determined in your pursuit of wisdom that you forget to live a little along the way." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man does not laugh to avoid weeping." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are those who build houses to live in and those who build houses for others to look at." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is like the darkness. In darkness all colors can agree." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When you live your life in a world of illusion it is good to know which door to go through to get back to reality." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise avoid short-term measures. Short-term measures taken today become the long-term problems of the future." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Understand that although we may well wish to do what we are supposed to do, circumstances will conspire to ensure that it is not always possible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is best seen in hindsight." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise person knows that there is sometimes more power in words left unsaid." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Words are potent weapons for all causes, good or bad." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Procrastination is the thief of time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is perhaps our delusions of adequacy which lead us to let not only ourselves but others down." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To speak, and to speak well, are two things. A fool may talk, but a wise man speaks." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Admire genius but beware—when genius is around everything is at risk." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Genius is not the same thing as wisdom. Genius is a gift, wisdom is a craft." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A true friend is one who knows all about you and who chooses to love you just the same." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you can understand just one thing thoroughly, then you will understand everything." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wise words don't come cheap." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A man who can see will move forward more surely than a blind man with a trustworthy guide, just as a person following an enlightened understanding will tread more surely than one following an obedience to custom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "He that is truly wise and great, lives both too early and too late." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Better an empty room than a bad lodger." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The only thing that the truly wise person can be sure of is that they know nothing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise person is always willing to see with the eyes of a child." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom suffocates in a closed mind." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One cannot make all the clever people good—neither is it possible to make all the good people clever." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There is no bigger fool than the person that boasts of their wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There is great wisdom in being able to realize that you don't understand something before it goes too far." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man is like a tree whose roots are fed from the earth while its branches rise toward heaven." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is far better to be than to know." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "They that are truly wise never finish learning." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is about learning not to see what is not, as well as what is." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Tomorrow is worth more than yesterday but less than today." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To have a purpose is the greatest gift of life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To allow yourself to be happy is the greatest wisdom there is." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise will spot the moment when the opponent, unable to convince, attempts to confuse." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Why should it be so difficult for us to admit we are wrong when there is nothing more helpful to resolving a problem than doing so?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Choosing the path of wisdom is not the easy option." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Give your all to the thing that is in front of you and once done, do the same with the thing behind it, and the next, and the next." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you start something—finish it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Thought comes free to those with no money." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You only get out of life what you are prepared to put into it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is far better to keep your mouth shut and be considered a fool by others rather than open it and remove all their doubts!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can't keep a good man down." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Always admit it when you're wrong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you want to win the race—run faster than anybody else." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Try not to make a major decision when you are tired—or drunk." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The bigger they come the harder they fall." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are those that sit and talk about what they dream of doing and others who go out and do something about it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "You may think that you can't have your cake and eat it—but sometimes you can." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The more I want to get something done, the less I call it work." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Try not to make heavy weather of things." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you overestimate or underestimate the value of personal relationships you may be in for a shock." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Before you act, think about what effect your actions will have." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Be careful if you don't know where you're going—you may never get there." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Misfortune never misses." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The same earth can become a hole and a hill at the same time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Conclusions usually happen when we're tired of thinking." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A celebrity is a person who is known merely for being well known." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It takes great wisdom to admit that something is impossible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When I don't know what I'm doing—I am doing research." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you want to be a winner you must keep on competing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Don't hang your targets after you've done your shooting." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Your feet might get muddy but you won't get your hands dirty reaching for the stars." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Experts, it seems, know more about less and absolutely everything about nothing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Everybody has their day, it's just that some days seem to last longer than others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can win by telling lies or be defeated on principle." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Freedom is a chance to be even better." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "If you don't like pressure stay away from jewelers." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can't know you've reached the boundaries of what is possible without going beyond into the realm of the impossible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The world, it seems, has become addicted to self-improvement—but is it any better for it?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Embrace change—don't run from it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Every man is an architect, each designing their future, always running late and over budget and rarely getting the chance to enjoy the result." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "95% of our time seems to be focused upon the problems and only 5% on finding solutions." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Reality has a way of cramping some people's style." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Consider the man who dug so long for treasure, that he missed the treasure of life and his hole became his grave." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Are you hesitating or simply nailed to the floor?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Einstein said 'The secret to creativity is knowing how to hide your sources.'" , "writer" : "Albert Einstein", "subject" : "Philosophy"}
+{"qoute" : "Most of life is choice—the rest is pure luck." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't spend so long concentrating on putting one foot in front of the other that you forget to look where you are going." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Words can be extremely useful when ideas fail." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There will always be people who are against you whether you are right or wrong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Success does not always equal skill." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "More important than seeing the future is knowing the present." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Things always seem to take longer than you expect, even when you allow additional time in just such an expectation." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Man's desires are insatiable." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There's no such thing as a free ride." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can take any road you like, but if you don't know where you're going, that's where you'll end up." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Man does before he speaks before he thinks." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Learn to expect to get what you deserve rather than what you want." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "With love and patience, nothing is impossible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "When will we learn that the world rules us—we can't rule the world." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "You can't predict your future but you can invent it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Wisdom is being able to foretell a mistake and avoid it. Experience is recognizing the same mistake every time you make it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise general looks at all the battles that matter and commits to the one he can win." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Don't let fear stop you." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The average person thinks he isn't average at all." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The boxer is not afraid of being knocked down—he's afraid of not being able to get up again." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Be nice to the people you meet on your way up, you're bound to bump into them again on your way down." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We live in an insecure world filled with opportunity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Better an authentic loser than a false success." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's a poor show when the leader is struggling to catch up with the others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "It took a particular kind of wisdom to look out across all that sea and know there would be land to discover." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "We are all actors in our own lives—and there are no understudies." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is gleaned from those who, through history, have chosen to write about what mankind has done and not about what he ought to have done." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise accept that fortunes come tumbling into some men's laps." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Hope might be a good breakfast, but it makes a very poor supper." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Riches should serve a purpose, rather than the purpose serve them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Death is the least of all evils." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is not the lie that passes from your mind, but the one that sinks in and takes root that does the greatest harm." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The sooner we can accept that the things that we think and feel are mostly quite normal and commonplace, the sooner we can be truthful about ourselves." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In the kingdom of the blind the one-eyed man is king." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is a treasure for all time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "What hope is there when people, even in front of the evidence, turn their head?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never forsake old friends for new." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Old age is like a plane flying through a storm. Once you're aboard there's nothing you can do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't think—do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Freedom means nothing if its meaning is misunderstood." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Make reason your guide." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is often the small actions of our daily lives that, over time, have the greatest influence on the world." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Act in the living present." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To stand still on the summit of perfection is difficult, and in the natural course of things, what cannot go forward slips back." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is the supreme part of happiness." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Genius is about the conquering of chaos and mystery." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is about being able to break an enemy's resistance without the need for fighting." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "To live in fear of death is many times to die." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom lies in thoughts not things." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can be shown the path to wisdom, but only you can make the first step." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "There is nothing nobler than humanity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Nothing great has ever been achieved without enthusiasm." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Those who spend their time worrying about what people think of them wouldn't worry if they knew how rarely other people think of them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One thought can change the world." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wiser you become the less you admit to knowing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man knows it's all just a game." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Only one person can tell you what wisdom means, and that is you." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Remember. You are the master of your own fate, the captain of your own soul." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Motion is motion and action is action. Never mistake one for the other." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Freedom of the mind is the greatest form of freedom that exists." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Wisdom is its own reward." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is knowing that silence often speaks louder than words." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The question to ask yourself is this: If life would let you attempt to do something that you knew would not fail, what would it be?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One enemy is too many—one hundred friends are too few." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There is no strength in absence." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In order to become better than anybody else you must first become better than yourself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Wisdom is one word that means something different to everyone." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Life is like a game of cards. It's not so much about what you're holding but how you play what you've been dealt." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never allow what you cannot do interfere with what you can do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "If you pray for rain, be prepared to be struck by lightning." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Life involves passions, faiths, doubts, and courage—in unequal measures." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The easiest person to deceive is yourself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No matter how simple the task, there is always someone who will find the wrong way to do it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Whether it's bad, or good, it won't last long." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Do, or do not. There is no try." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It is often better to delay than get it wrong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Compromise does not mean cowardice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Life is filled with insurmountable opportunities." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's extremely difficult to fake wisdom—even if you're very good at pretending to be serious." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Monuments are made to those who don't need them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's not what they take away from you but what you do with the rest." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The most frightening thing about any given situation is being able to do nothing about it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A man who has made a mistake and doesn't correct it, is making another mistake." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Twenty years from now you will be more disappointed by the things you didn't do than by the things you did do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The best medicine in life is a faithful friend." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Opportunities multiply as they are seized." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Enemies come to those who make changes." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "If you set off in search of the pot of gold at the end of the rainbow make sure that you know which end it's at." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never go to bed thinking about what to complain about tomorrow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Good advice is rather like medicine—it might leave an unpleasant taste in the mouth but it can do a lot of good." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It may be possible to deceive those better than you but never your peers." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You will never be disappointed if you go through life always expecting the worst, but you'll miss out on a lot of fun along the way." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Silence is the cornerstone of character." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Put yourself out on a limb now and then, that way you'll stand a chance of reaching the fruit." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Do what you've always done and you will always be what you have always been." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Try once—this will help you to get over the fear of doing something. Try twice—this will enable you to learn to do it. Try three times—this way you will be able to see if you like doing it or not." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Begin at once to live, and count each separate day as a separate life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Readiness is all." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "When the time comes to tell your children how it is they came to be born it would be wise to know the reason." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Love thy neighbor as thyself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Count your blessings and not another's." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Try and do one thing each day that you would really rather not do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "You can't do better than your best." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is better to lead by example than by decree." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Hold on to your friends for friendship is the most important thing in times of adversity as well as in times of happiness." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Read much, but draw your own conclusions." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It doesn't matter what you do in life so long as you do it as well as possible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To your own self be true." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Enjoy your work or find work you can enjoy." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You've got a brain, so use it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Always listen to children." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never contend with a man who has nothing to lose." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Live to study don't study to live." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never do yourself the thing that you criticize in others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't walk on thin ice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When your past life chills you, burn a few bridges and warm yourself in the flames." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "When you don't have a solution you can always admire the problem." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is better to be alone than to be found in bad company." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't wait until the roses wither before you place them in your hair." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "He who has begun his task is half way done. Have the courage to begin!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Dare to live—don't just spend your life avoiding death." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Don't do anything which will cause you fear if it becomes known to your neighbor." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When in doubt if an action is good or bad, refrain." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is unwise to take more in life than you can use." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Choose how to act when there is a clear choice between good and bad consequences." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Live well, laugh often, and love much." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Try to make your prologues shorter than your stories." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't just criticize, go and help." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't waste your energy in being indignant." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you don't accept defeat you cannot be defeated." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "In all respects, and with all people, treat others as you yourself wish to be treated." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Always own up. Errors multiply when concealed." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's fine to believe in miracles but fatal to come to rely upon them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When everybody is busy beating their own drum, the important thing is to march to the beat of yours and not someone else's." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Take care when taking advice from others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you pretend to have knowledge that you don't possess you'd better avoid the experts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Do your best with what's on offer." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you have nothing pleasant to say about someone, it is best to say nothing at all." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Lose your temper and you lose the battle." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't yearn for the impossible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When you believe in a cause, never give up." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Be yourself—nobody can be you better than you." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't be damned by faint praise." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's no use trying to judge the earth." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Allow yourself to listen to the elderly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If on your journey you find only one thing, let it be your aim in life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Experience each day that dawns as if it was your first." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Live each day that dawns as if it is your last." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It is wise to follow the truth wherever it leads." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The lashes of the tongue are far more severe than any whip." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Dare to be wise; begin to live." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Save your money or spend it wisely." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you are certain you are right, go straight ahead." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Let nobody deter you from doing what you believe is right." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "You're every bit as good as the next person—all you've got to do is prove it!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Try to see yourself as others see you, and be prepared for a nasty surprise." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Always keep a few miles between you and your relations." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never resist a challenge." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "If there's something that you have always wanted to do but have been putting it off until the right time—do it, and do it now!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Never make a promise unless you mean to stick by it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You should never want something so badly that it hurts if you don't ever get it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Do right and you need fear no man." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It is not possible to get anxious about the past so there is little point in becoming depressed about the future." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't put off until tomorrow what you can do today." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Look at all things as they are." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is as well to create good precedents as to follow them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In all human nature there exists less of the wise and more of the fool." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can defy everything but age. You will only look foolish if you try." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We all fail at many things, many times in this life but we don't become failures, until we start blaming someone else." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never allow what you cannot do to interfere with what you can do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Read, weigh, and consider." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In order to become better than anybody else you must first become better than yourself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It's what you do with what you know that gets you paid!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Fill your garden with fruits and it will always be filled with birdsong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Ensure that during your lifetime you do something for posterity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Choice is not always an easy option to choose." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Give yourself more alternatives and that way you will have more choice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The most important thing to know is your own mind." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Just as there are unhappy lies, so too there is happy invention." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Time does not stand still for anyone. As the times change, so too can you." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One should not always try to take giant leaps in life when the rest of mankind will be perfectly satisfied with every small step you take." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise never rush into despair—it is easier to find your way in than out." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Always have something positive to say." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Allow yourself only to forget through choice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you fall seven times, stand up eight." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Live your life as though you intend to live forever. Conduct your affairs as though you expect to die tomorrow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is said that fools rush in. Sometimes it is best to wait and see." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you travel the path of your choice, be prepared to lend your critics a pen." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "If you want to set an example, try patience—for it is often perceived as genius." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When you can't seem to reach an agreement it is often wiser to agree to disagree." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Liberty is one of the greatest treasures to mankind. Never give up your liberties lightly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Your solitude should be voluntary." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Remember that the impossible takes a little bit longer." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "When your entire world seems upside down you can either attempt to put it right again or stand on your head." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Anybody with the capacity to please has the potential to annoy." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When you make a mistake, take another chance—only when you chose not to do so do you fail." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "A single moment of wrath can turn the universe to ashes." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Even the wise never know when coincidence might strike." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is a great gift to know when to remain silent." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Better a good loser than a bad winner." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you have to be something then be as it is you wish to seem." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Only the honorable can associate with the honorable." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Find friendship with yourself—until you can it will be difficult to find friendship with anyone else." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When people say they hate you for what you are, tell them that it feels better than being loved for what you are not." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "If there were no falsehood in the world, there would be no doubt, If there were no doubt there would be no inquiry; If no inquiry, no wisdom, no knowledge, no genius." , "writer" : "Walter Savage Landor", "subject" : "Philosophy"}
+{"qoute" : "To know how to grow old is the master work of wisdom, and one of the most difficult chapters in the great art of living." , "writer" : "Henri Frédéric Amiel", "subject" : "Philosophy"}
+{"qoute" : "To ask the hard question is simple." , "writer" : "W. H. Auden", "subject" : "Philosophy"}
+{"qoute" : "Our deeds determine us as much as we determine our deeds." , "writer" : "George Eliot", "subject" : "Philosophy"}
+{"qoute" : "The deed is everything, the glory is naught." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Philosophy"}
+{"qoute" : "The more we do the more we can do; the more busy we are the more leisure we have." , "writer" : "William Hazlitt", "subject" : "Philosophy"}
+{"qoute" : "The actions of men are the best interpreters of their thoughts." , "writer" : "John Locke", "subject" : "Philosophy"}
+{"qoute" : "I prefer the errors of enthusiasm to the indifference of wisdom." , "writer" : "Anatole France", "subject" : "Philosophy"}
+{"qoute" : "Folly is wisdom spun too fine." , "writer" : "Benjamin Franklin", "subject" : "Philosophy"}
+{"qoute" : "Good people are good because they've come to wisdom through failure." , "writer" : "William Saroyan", "subject" : "Philosophy"}
+{"qoute" : "Doubt is the vestibule through which all must pass before they can enter into the temple of wisdom." , "writer" : "Charles Caleb Colton", "subject" : "Philosophy"}
+{"qoute" : "There are moments when everything goes well, but don't be frightened, it won't last." , "writer" : "Jules Renard", "subject" : "Philosophy"}
+{"qoute" : "It may serve as a comfort to us, in all our calamities and afflictions, that he that loses anything and gets wisdom by it is a gainer by the loss." , "writer" : "Sir Roger L'Estrange", "subject" : "Philosophy"}
+{"qoute" : "What does not destroy me, makes me stronger." , "writer" : "Friedrich Nietzsche", "subject" : "Courage"}
+{"qoute" : "Once all struggle is grasped, miracles are possible." , "writer" : "Mao Tse-Tung", "subject" : "Courage"}
+{"qoute" : "Mistakes are the portals of discovery." , "writer" : "James Joyce", "subject" : "Philosophy"}
+{"qoute" : "Anger makes dull men witty, but it keeps them poor." , "writer" : "Francis Bacon", "subject" : "Philosophy"}
+{"qoute" : "Deliberate with caution but act with decision and yield with graciousness or oppose with firmness." , "writer" : "Charles Caleb Colton", "subject" : "Philosophy"}
+{"qoute" : "To learn moderation is the essence of sound sense and real wisdom." , "writer" : "Jacques Bénigne Bossuet", "subject" : "Philosophy"}
+{"qoute" : "Knowledge is proud that he has learned so much; wisdom is humble that he knows no more." , "writer" : "William Cowper", "subject" : "Philosophy"}
+{"qoute" : "Be humble, if thou would'st attain to wisdom. Be humbler still, when Wisdom thou hast mastered." , "writer" : "Helena Petronova Blavatsky", "subject" : "Philosophy"}
+{"qoute" : "The bird of wisdom flies low, and seeks her food under hedges; the eagle himself would be starved if he always soared aloft and against the sun." , "writer" : "Walter Savage Landor", "subject" : "Philosophy"}
+{"qoute" : "Every man feels instinctively that all the beautiful sentiments in the world weigh less than a single lovely action." , "writer" : "James Lowell", "subject" : "Philosophy"}
+{"qoute" : "It is the mark of a good action that it appears inevitable in retrospect." , "writer" : "Robert Louis Stevenson", "subject" : "Philosophy"}
+{"qoute" : "Good actions ennoble us, we are the sons of our own deeds." , "writer" : "Miguel de Cervantes", "subject" : "Philosophy"}
+{"qoute" : "Words may show a man's wit but actions his meaning." , "writer" : "Benjamin Franklin", "subject" : "Philosophy"}
+{"qoute" : "He who considers too much will perform little." , "writer" : "Friedrich Schiller", "subject" : "Philosophy"}
+{"qoute" : "A loving heart is the truest wisdom." , "writer" : "Charles Dickens", "subject" : "Philosophy"}
+{"qoute" : "The first sign of love is the last of wisdom." , "writer" : "Antoine Bret", "subject" : "Philosophy"}
+{"qoute" : "Solitude is the best nurse of wisdom." , "writer" : "Laurence Sterne", "subject" : "Philosophy"}
+{"qoute" : "Caution is the eldest child of wisdom." , "writer" : "Victor Hugo", "subject" : "Philosophy"}
+{"qoute" : "Honesty is the first chapter of the book of wisdom." , "writer" : "Thomas Jefferson", "subject" : "Philosophy"}
+{"qoute" : "But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice and madness, without tuition or restraint." , "writer" : "Edmund Burke", "subject" : "Politics"}
+{"qoute" : "Knowledge is convertible into power, and axioms into rules of utility and duty. But knowledge itself is not power. Wisdom is power; and her prime minister is justice, which is the perfected law of truth." , "writer" : "Albert Pike", "subject" : "Politics"}
+{"qoute" : "What is strength without a double share of wisdom? Vast, unwieldy, burdensome, proudly secure, yet liable to fall by weakest subtleties; strength's not made to rule, but to subserve, where wisdom bears command." , "writer" : "John Milton", "subject" : "Politics"}
+{"qoute" : "We can be knowledgeable with other men's knowledge but we cannot be wise with other men's wisdom." , "writer" : "Michel de Montaigne", "subject" : "Philosophy"}
+{"qoute" : "Knowledge comes, but wisdom lingers." , "writer" : "Alfred Lord Tennyson", "subject" : "Philosophy"}
+{"qoute" : "Studies teach not their own use; that is a wisdom without and above them, won by observation." , "writer" : "Francis Bacon", "subject" : "Philosophy"}
+{"qoute" : "Knowledge dwells in heads replete with thoughts of other men; wisdom in minds attentive to their own." , "writer" : "William Cowper", "subject" : "Philosophy"}
+{"qoute" : "He's a fool that cannot conceal his wisdom." , "writer" : "Benjamin Franklin", "subject" : "Philosophy"}
+{"qoute" : "The motto of chivalry is also the motto of wisdom; to serve all, but love only one." , "writer" : "Honore de Balzac", "subject" : "Philosophy"}
+{"qoute" : "The law is the last result of human wisdom acting upon human experience for the benefit of the public." , "writer" : "Samuel Johnson", "subject" : "Politics"}
+{"qoute" : "Justice without wisdom is impossible." , "writer" : "James Anthony Froude", "subject" : "Politics"}
+{"qoute" : "The divine essence itself is love and wisdom." , "writer" : "Emanuel Swedenborg", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is ofttimes nearer when we stoop than when we soar." , "writer" : "William Wordsworth", "subject" : "Philosophy"}
+{"qoute" : "Moderation is the inseparable companion of wisdom but with it genius has not even a nodding acquaintance." , "writer" : "Charles Caleb Colton", "subject" : "Philosophy"}
+{"qoute" : "By wisdom wealth is won; But riches purchased wisdom yet for none." , "writer" : "Bayard Taylor", "subject" : "Philosophy"}
+{"qoute" : "The power is yours, but not the sight; You see not upon what you tread; You have the ages for your guide, But not the wisdom to be led." , "writer" : "Edwin A. Robinson", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is only found in truth." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Philosophy"}
+{"qoute" : "Man is never helped in his suffering by what he thinks for himself but only by revelation of a wisdom greater than his own. It is this which lifts him out of his distress." , "writer" : "Carl Gustav Jung", "subject" : "Philosophy"}
+{"qoute" : "Wisdom and goodness are twin-born, one heart must hold both sisters, never seen apart." , "writer" : "William Cowper", "subject" : "Philosophy"}
+{"qoute" : "The most evident token and apparent sign of true wisdom is a constant and unconstrained rejoicing." , "writer" : "Michel de Montaigne", "subject" : "Philosophy"}
+{"qoute" : "The strongest symptom of wisdom in man is his being sensible of his own follies." , "writer" : "François La Rochefoucauld", "subject" : "Philosophy"}
+{"qoute" : "A prudent question is one-half of wisdom." , "writer" : "Francis Bacon", "subject" : "Philosophy"}
+{"qoute" : "The doorstep to the temple of wisdom is a knowledge of our own ignorance." , "writer" : "Charles Spurgeon", "subject" : "Philosophy"}
+{"qoute" : "Common sense in an uncommon degree is what the world calls wisdom." , "writer" : "Samuel Taylor Coleridge", "subject" : "Philosophy"}
+{"qoute" : "Nine tenths of wisdom consists in being wise in time." , "writer" : "Theodore Roosevelt", "subject" : "Philosophy"}
+{"qoute" : "To admit ignorance is to exhibit wisdom." , "writer" : "Ashley Montagu", "subject" : "Philosophy"}
+{"qoute" : "Books give not wisdom where none was before, but where some is, their reading makes it more." , "writer" : "John Harrington", "subject" : "Philosophy"}
+{"qoute" : "The wisdom of the wise and the experience of ages may be preserved by quotation." , "writer" : "Benjamin Disraeli", "subject" : "Philosophy"}
+{"qoute" : "The world is all gates, all opportunities, strings of tension waiting to be struck." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy"}
+{"qoute" : "Hatred is self-punishment." , "writer" : "Hosea Ballou", "subject" : "Philosophy"}
+{"qoute" : "To be angry is to revenge the faults of others on ourselves." , "writer" : "Alexander Pope", "subject" : "Philosophy"}
+{"qoute" : "Anger is a wind which blows out the lamp of the mind." , "writer" : "Robert G. Ingersoll", "subject" : "Philosophy"}
+{"qoute" : "An ill-humored man is a prisoner at the mercy of an enemy from whom he can never escape." , "writer" : "Sa'di", "subject" : "Philosophy"}
+{"qoute" : "Cunning to wisdom is as an ape to man." , "writer" : "William Penn", "subject" : "Philosophy"}
+{"qoute" : "The man who does not read good books has no advantage over the man who cannot read them." , "writer" : "Mark Twain", "subject" : "Philosophy"}
+{"qoute" : "There are more fools than wise men; and even in wise men, more folly than wisdom." , "writer" : "Sébastien-Roch Nicolas Chamfort", "subject" : "Philosophy"}
+{"qoute" : "A man with one watch knows what time it is. A man with two watches is never sure." , "writer" : "John Peer", "subject" : "Philosophy"}
+{"qoute" : "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former." , "writer" : "Albert Einstein", "subject" : "Philosophy"}
+{"qoute" : "Nothing is more intolerable than to have to admit to yourself your own errors." , "writer" : "Ludwig van Beethoven", "subject" : "Philosophy"}
+{"qoute" : "Only those who dare to fail greatly can ever achieve greatly." , "writer" : "Robert F. Kennedy", "subject" : "Courage"}
+{"qoute" : "If you're strong enough, there are no precedents." , "writer" : "F. Scott Fitzgerald", "subject" : "Courage"}
+{"qoute" : "If at first you don't succeed, try, and try again. Then give up. There's no sense in being a damned fool about it." , "writer" : "W. C. Fields", "subject" : "Philosophy"}
+{"qoute" : "The reward of a thing well done is to have done it." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy"}
+{"qoute" : "I find that the harder I work, the more luck I seem to have." , "writer" : "Thomas Jefferson", "subject" : "Philosophy"}
+{"qoute" : "Truth comes out of error more easily than out of confusion." , "writer" : "Francis Bacon", "subject" : "Philosophy"}
+{"qoute" : "You can run with the big dogs or sit on the porch and bark." , "writer" : "Wallace Arnold", "subject" : "Courage"}
+{"qoute" : "Computers are useless. They can only give you answers." , "writer" : "Pablo Picasso", "subject" : "Philosophy"}
+{"qoute" : "The sum of wisdom is that time is never lost that is devoted to work." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy"}
+{"qoute" : "It is easy for men to write and talk like philosophers, but to act with wisdom, there is the rub!" , "writer" : "Antoine de Rivaroli", "subject" : "Philosophy"}
+{"qoute" : "To be a philosopher is not merely to have subtle thoughts; but so to love wisdom as to live according to its dictates." , "writer" : "Henry David Thoreau", "subject" : "Philosophy"}
+{"qoute" : "Do not wait for extraordinary circumstances to do good action; try to use ordinary situations." , "writer" : "Johann Paul Friedrich Richter", "subject" : "Philosophy"}
+{"qoute" : "To act with common sense, according to the moment, is the best wisdom; and the best philosophy is to do one's duties, to take the world as it comes, submit respectfully to one's lot, bless the goodness that has given us so much happiness with it, whatever it is." , "writer" : "Horace Walpole", "subject" : "Philosophy"}
+{"qoute" : "The great end of life is not knowledge but action." , "writer" : "Thomas Huxley", "subject" : "Philosophy"}
+{"qoute" : "Opportunity is missed by most people because it is dressed in overalls and looks like work." , "writer" : "Thomas Alva Edison", "subject" : "Philosophy"}
+{"qoute" : "No problem can withstand the assault of sustained thinking." , "writer" : "Voltaire", "subject" : "Philosophy"}
+{"qoute" : "Well done is better than well said." , "writer" : "Benjamin Franklin", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is to the mind what health is to the body." , "writer" : "François La Rochefoucauld", "subject" : "Philosophy"}
+{"qoute" : "The weak have remedies, the wise have joys; superior wisdom is superior bliss." , "writer" : "Edward Young", "subject" : "Philosophy"}
+{"qoute" : "Nothing in life is to be feared. It is only to be understood." , "writer" : "Marie Curie", "subject" : "Courage"}
+{"qoute" : "Great spirits have always encountered violent opposition from mediocre minds." , "writer" : "Albert Einstein", "subject" : "Philosophy"}
+{"qoute" : "Kites rise highest against the wind—not with it." , "writer" : "Winston Churchill", "subject" : "Courage"}
+{"qoute" : "If a man will begin with certainties, he shall end in doubts; but if he will be content to begin with doubts, he shall end in certainties." , "writer" : "Francis Bacon", "subject" : "Philosophy"}
+{"qoute" : "A man's wisdom is his best friend; folly, his worst enemy." , "writer" : "William Temple", "subject" : "Philosophy"}
+{"qoute" : "Man usually avoids attributing cleverness to somebody else—unless it is an enemy." , "writer" : "Albert Einstein", "subject" : "Philosophy"}
+{"qoute" : "There is one thing stronger than all the armies in the world, and that is an idea whose time has come." , "writer" : "Victor Hugo", "subject" : "Politics"}
+{"qoute" : "Wisdom alone is true ambition's aim. Wisdom the source of virtue, and of fame, Obtained with labor, for mankind employed. And, then, when most you share it, best enjoyed." , "writer" : "Alfred North Whitehead", "subject" : "Philosophy"}
+{"qoute" : "Thinking is easy but acting is difficult and to put one's thoughts into action is the most difficult thing in the world." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Philosophy"}
+{"qoute" : "There are but two things worth living for; to do what is worthy of being written; and to write what is worthy of being read; and greater of these is the doing." , "writer" : "Albert Pike", "subject" : "Philosophy"}
+{"qoute" : "Our only true course is to let the motive for action be in the action itself, never in its reward; not to be incited by the hope of the result, nor yet indulge a propensity for inertness." , "writer" : "Helena Petronova Blavatsky", "subject" : "Philosophy"}
+{"qoute" : "Each morning sees some task begun. Each evening sees it close; Something attempted, something done. Has earned a night's repose." , "writer" : "Henry Wadsworth Longfellow", "subject" : "Philosophy"}
+{"qoute" : "Idleness is the holiday of fools." , "writer" : "G. K. Chesterton", "subject" : "Philosophy"}
+{"qoute" : "Beauty is the index of a larger fact in wisdom." , "writer" : "Oliver Wendell Holmes", "subject" : "Philosophy"}
+{"qoute" : "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." , "writer" : "George Bernard Shaw", "subject" : "Politics"}
+{"qoute" : "They whom truth and wisdom lead can gather honey from a weed." , "writer" : "William Cowper", "subject" : "Philosophy"}
+{"qoute" : "Our acts make or mar us, we are the children of our deeds." , "writer" : "Victor Hugo", "subject" : "Philosophy"}
+{"qoute" : "Man's main task in life is to give birth to himself." , "writer" : "Erich Fromm", "subject" : "Philosophy"}
+{"qoute" : "Be happy. It is a way of being wise." , "writer" : "Colette", "subject" : "Philosophy"}
+{"qoute" : "Human felicity is produced not so much by great pieces of good fortune that seldom happen, as by little advantages that occur every day." , "writer" : "Benjamin Franklin", "subject" : "Philosophy"}
+{"qoute" : "Life is a great bundle of little things." , "writer" : "Oliver Wendell Holmes", "subject" : "Philosophy"}
+{"qoute" : "Life is what happens to you when you're busy making other plans." , "writer" : "John Lennon", "subject" : "Philosophy"}
+{"qoute" : "When one is trying to do something beyond one's known powers it is useless to seek the approval of friends. Friends are at their best in moments of defeat." , "writer" : "Henry Miller", "subject" : "Philosophy"}
+{"qoute" : "You should treat all disasters as if they were trivialities but never treat a triviality as if it were a disaster." , "writer" : "Quentin Crisp", "subject" : "Philosophy"}
+{"qoute" : "Blessed is he who expects nothing, for he shall never be disappointed." , "writer" : "Alexander Pope", "subject" : "Philosophy"}
+{"qoute" : "A stumble may prevent a fall." , "writer" : "Thomas Fuller", "subject" : "Philosophy"}
+{"qoute" : "When a man has not a good reason for doing a thing, he has one good reason for letting it alone." , "writer" : "Walter Scott", "subject" : "Philosophy"}
+{"qoute" : "The best way to avoid a bad action is by doing a good one, for there is no difficulty in the world like that of trying to do nothing." , "writer" : "John Clare", "subject" : "Philosophy"}
+{"qoute" : "The art of being wise is the art of knowing what to overlook." , "writer" : "William James", "subject" : "Philosophy"}
+{"qoute" : "It has been by experience that people who have no vices have very few virtues." , "writer" : "Abraham Lincoln", "subject" : "Philosophy"}
+{"qoute" : "The 'silly question' is the first intimation of some totally new development." , "writer" : "Alfred North Whitehead", "subject" : "Philosophy"}
+{"qoute" : "The greatest lesson in life is to know that even fools are right sometimes." , "writer" : "Winston Churchill", "subject" : "Philosophy"}
+{"qoute" : "There is an element of truth in every idea that lasts long enough to be called corny." , "writer" : "Irving Berlin", "subject" : "Philosophy"}
+{"qoute" : "A man should never be ashamed to own that he has been in the wrong, which is but saying, in other words, that he is wiser today than he was yesterday." , "writer" : "Jonathan Swift", "subject" : "Philosophy"}
+{"qoute" : "When one God dwells in all living beings, then why do you hate others? Why do you frown at others? Why do you become indignant towards others? Why do you use harsh words? Why do you try to rule and domineer over others? Why do you exploit folly? Is this not sheer ignorance? Get wisdom and rest in peace." , "writer" : "Sivananda", "subject" : "Philosophy"}
+{"qoute" : "You can bet on a winning horse—but you can never bet enough on a winning horse." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If it's not worth doing then it's not worth doing well." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Bravery and stupidity go hand in hand." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "A powerful imagination is something to strive for." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The only ones who can fool all of the people all of the time are working for the leading advertising agencies." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "The boardroom is rather like the bedroom—only success in the boardroom can usually be achieved by faking sincerity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Man does ten times the work he used to do because he's come to realize that nine times out of ten he's wrong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Good health and a bad memory for some spells of happiness." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Ignorance and confidence have led many to success." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Whichever way you look at it, in order to succeed another must fail." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To motivate ourselves or indeed others, the quickest and most sure way is to take the imagination by storm." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's no good wandering through life wanting to be someone, you have to be clear who that someone is." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are those who go through life never making an error and there are those who go through life making many undetected errors." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are two approaches to life: The carelessly planned life that leads to everything taking three times longer than anticipated; and the carefully planned life, where everything only takes twice as long." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom tells us that the same mistake is likely to occur again." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When a thing ceases to be a subject of controversy, it ceases to be a subject of interest." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Forgetting is equally as important as remembering." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No true autobiography has been or will ever be written. We all have things that we are afraid to tell about ourselves." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You exercise your right of choice every time you choose not to decide." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "People spend a fortune on trying to improve their looks when the best beauty treatment comes free in the form of a smile." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The longest road out is the shortest road home." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Envy shortens life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Allowing yourself to be bored is a criminal waste of life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A hero is a man who does what he can." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Love has the power to bring out the absolute best—and worst—in all of us." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Those who arrive at wisdom through failure tend to have a much deeper grasp of its value." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The busiest people do not always get the most done." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Solutions need problems just as problems need solutions." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Politicians have a unique method of redefining success each time they don't succeed." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "The gambler has a unique way of turning a thousand-to-one shot into a fifty-fifty chance." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is still quite possible to enjoy doing those things that we're not very good at." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Boldness has genius, power, and magic in it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Education is the key to freedom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Pride is the most dangerous enemy anyone can have, it destroys us from the inside out." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "They pay for your opinions and not your doubts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Who are we if the thoughts we think are someone else's?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Greater understanding increases the capacity for tolerance." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Where there is a feast of words there is often a famine of wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It takes a hell of a lot of knowledge to really know how little you know." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The fool sees a thing, the wise watch." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "They who have never loved, have never lived." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "What is most contrary to salvation is not sin but habit." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom after the event is no wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A mistake is not the same as an error. We can make a mistake and correct it but it would be an error to knowingly make a mistake and do nothing about correcting it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Desire is the stimulant of creativity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Experience is the mother of wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A still tongue makes a wise head." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Little things please little minds." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom needs caution and confidence in equal balance." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can of course quit while you're ahead—but quitters never win." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Everybody gets at least one opportunity in their life but it is often difficult to recognize it when it comes along." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "While the ambitious strive to get ahead, the wise simply try to do the job they've been given well." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "As a culture, we are too concerned with the spirit and have forgotten our soul." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Knowledge itself is power, power without wisdom is dangerous." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Those who don't know how to weep with their whole heart will never know how to laugh." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Some see life-long relationships and marriage as a destination while others view them as a means of traveling." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The most you can ever hope to do, is to do your best." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you can imagine the thing you fear you are half way to confronting it, if you confront the thing you fear you are half way to conquering it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The good opinion of fools is not worth the wear of winning." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Follow your conscience." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Our intelligence is the thing that allows us to hold two opposing thoughts at the same time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Is it always reasonable to be reasonable?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We are the sum of our experiences." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Without the rain there would be no meadows, without the shadow there would be no sunshine, without the bitter there would be no sweet." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Good temper is sometimes more irritating than bad temper." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "All teachings that seek to bring our lives out from the darkness into the new light of being tend to leave great clouds of doubt." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Why is it that people insist on meeting a large and far reaching mind at its narrowest point?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise know that our judgement becomes impaired when our imagination goes blank." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Is it really possible to be less than God but more than man?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Revenge is a form of wild justice which merely doubles the original hurt." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Adversity has its hopes and comforts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Vice is to prosperity what virtue is to adversity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The world will always have the need for people who can imagine things that never were." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is perhaps unwise to only have your own company, for if you are always with yourself, you will inevitably become your own tormentor." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A closed mind is infinitely more difficult to open than a closed door." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Why is it that so many throughout history have been driven by the desire to seek power when it meant losing their liberty?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Severity breeds fear. Roughness breeds hate." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "The bold are bad at keeping promises." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom brings natural authority." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "With thought all our actions become intentional." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can know light but can you imagine what will make light?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In charity there is no such thing as excess." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Avoiding superstition is in itself a superstitious act." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "An open mind is the best traveling companion." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is dangerous to accept a cunning man as wise." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is not wise to argue with fools." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Some of the greatest thoughts in the history of mankind simply popped into people's heads unexpectedly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man does not set his house alight in his desire to eat toast." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you wish to save time, choose time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A crowd is the loneliest place to be." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Time is itself the greatest of innovators." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Suspicions are nocturnal creatures that inhabit the night-time of your thoughts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wealth is a burden, riches are for spending." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Some study for the pleasure of learning. Some study because it looks good on their resume. Some study because it gives them ability." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "He who knows little suspects much." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The mind is a garden that occasionally needs weeding." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The two most difficult moments of any project are the beginning and the end." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The only path that will lead us out of servitude to freedom is thought." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Any group or collective thought is only as strong as its weakest link." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Great acts are born of great thoughts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is impossible to learn and understand without thought." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We are where our thoughts have taken us, and we are going where they will take us tomorrow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Arouse the mind, it is your most powerful tool." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It would be impossible to alter our life without first altering our thinking." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "All our fears of life and fears of death can be dispelled through knowledge." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It takes great courage to avoid being touched by the centuries of evil doctrine that have accumulated around us." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "With thought comes reason yet reason is a slave to passion." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Our thoughts are a paradise to which we can return at will." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom grows from the same seed as common sense." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Every man's memory is his private literature." , "writer" : "Aldous Huxley", "subject" : "Philosophy"}
+{"qoute" : "You may be able to remember a great deal but are you wise enough to be able to forget?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Do not depend upon your memory alone, to do so will destroy your power of thought and it is thought that leads to wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Knowledge without wisdom is like a roof with no house beneath it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Where there is learning untempered by experience, a weak judgement is to be discovered." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Imagination is creation." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Knowledge has a way of coming and going whereas wisdom tends to stick around." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Learn not to worry about things that you have no power to change." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Worrying is destructive thought." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Imagination is the key that winds up the spring of the possible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One is always free to imagine." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There is nothing quite so fulfilling as turning imagination into action." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "One has to adapt one's thinking to the question at hand." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Imagination is a whole other universe where anything is possible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Any situation worth understanding is confusing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Knowledge, the object of knowledge, and the knower are the three factors which motivate action; the senses, the work, and the doer comprise the threefold basis of action." , "writer" : "Bhagavad Gita", "subject" : "Philosophy"}
+{"qoute" : "Heaven never helps the men who will not act." , "writer" : "Sophocles", "subject" : "Philosophy"}
+{"qoute" : "Waste no more time arguing what a good man should be. Be one." , "writer" : "Marcus Aurelius", "subject" : "Philosophy"}
+{"qoute" : "What one has, one ought to use: and whatever he does he should do with all his might." , "writer" : "Cicero", "subject" : "Philosophy"}
+{"qoute" : "The unexamined life is not worth living." , "writer" : "Socrates", "subject" : "Philosophy"}
+{"qoute" : "In seeking wisdom, the first stage is silence, the second listening, the third, remembrance, the fourth practicing, the fifth, teaching." , "writer" : "Solomon Ibn Gabirol", "subject" : "Philosophy"}
+{"qoute" : "Greed, lust, fear, anger, misfortune, unhappiness all are derived from foolishness. Thus foolishness is the greatest of poisons." , "writer" : "Buddha", "subject" : "Philosophy"}
+{"qoute" : "To do an evil act is base. To do a good one without incurring danger is common enough. But it is part of a good man to do great and noble deeds though he risks everything in doing them." , "writer" : "Plutarch", "subject" : "Courage"}
+{"qoute" : "The superior man acts before he speaks, and afterwards speaks according to his action." , "writer" : "Confucius", "subject" : "Philosophy"}
+{"qoute" : "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future." , "writer" : "Plutarch", "subject" : "Philosophy"}
+{"qoute" : "The good of the people is the chief law." , "writer" : "Cicero", "subject" : "Politics"}
+{"qoute" : "The pine stays green in winter—wisdom in hardship." , "writer" : "Chinese proverb", "subject" : "Philosophy"}
+{"qoute" : "In youth and beauty wisdom is but rare!" , "writer" : "Homer", "subject" : "Philosophy"}
+{"qoute" : "Deceive boys with toys, but men with oaths." , "writer" : "Lysander", "subject" : "Politics"}
+{"qoute" : "In wisdom and understanding we have the archetypal positive and negative, the primordial maleness and femaleness, established while countenance 'beheld not' countenance and manifestation was incipient. It is from these primary pairs of opposites that the pillars of the universe spring, between which is woven the web of manifestation." , "writer" : "Kabbalah", "subject" : "Philosophy"}
+{"qoute" : "There is nothing so absurd but some philosopher has said it." , "writer" : "Cicero", "subject" : "Philosophy"}
+{"qoute" : "Nature never says one thing, wisdom another." , "writer" : "Juvenal", "subject" : "Philosophy"}
+{"qoute" : "For in every ill-turn of fortune the most unhappy sort of misfortune is to have been happy." , "writer" : "Boethius", "subject" : "Philosophy"}
+{"qoute" : "Hatred is inveterate anger." , "writer" : "Cicero", "subject" : "Philosophy"}
+{"qoute" : "Man is the measure of all things." , "writer" : "Protagoras", "subject" : "Philosophy"}
+{"qoute" : "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self." , "writer" : "Confucius", "subject" : "Philosophy"}
+{"qoute" : "As a plain garment best adorneth a beautiful woman, so decent behaviour is the best adornment of inner wisdom." , "writer" : "Akhenaton", "subject" : "Philosophy"}
+{"qoute" : "Anger is momentary madness." , "writer" : "Horace", "subject" : "Philosophy"}
+{"qoute" : "Famous men have the whole earth as their memorial." , "writer" : "Pericles", "subject" : "Politics"}
+{"qoute" : "Not to be born is, past all prizing, best." , "writer" : "Sophocles", "subject" : "Philosophy"}
+{"qoute" : "When a man dies, what does not leave him? The voice of a dead man goes into fire, his breath into wind, his eyes into the sun, his mind into the moon, his hearing into the quarters of heaven, his body into the earth, his spirit into space, the hairs of his head into plants, and his blood and semen are placed in water, what then becomes of this person? What remains is action. Its quality becomes fate. Verily one becomes good by good action, bad by bad action." , "writer" : "Upanishads", "subject" : "Philosophy"}
+{"qoute" : "Of making many books there is no end; and much study is a weariness of the flesh." , "writer" : "Ecclesiastes 12:12", "subject" : "Philosophy"}
+{"qoute" : "He gives the poor man twice as much good who gives quickly." , "writer" : "Publilius", "subject" : "Philosophy"}
+{"qoute" : "The superior man seeks what is right; the inferior one, what is profitable." , "writer" : "Confucius", "subject" : "Philosophy"}
+{"qoute" : "That deed is not well done of which a man must repent, and the reward of which he receives crying and with a tearful face. No, that deed is well done of which a man does not repent, and the reward of which he receives gladly and cheerfully." , "writer" : "The Dhammapada", "subject" : "Philosophy"}
+{"qoute" : "For there is nothing sillier than a silly laugh." , "writer" : "Catullus", "subject" : "Philosophy"}
+{"qoute" : "Better to do a good deed near at home than go far away to burn incense." , "writer" : "Chinese proverb", "subject" : "Philosophy"}
+{"qoute" : "You can't step twice into the same river." , "writer" : "Heraclitus", "subject" : "Philosophy"}
+{"qoute" : "Necessity gives the law without itself acknowledging one." , "writer" : "Publilius Syrus", "subject" : "Politics"}
+{"qoute" : "Live not as though there were a thousand years ahead of you. Fate is at your elbow; make yourself good while life and power are still yours." , "writer" : "Marcus Aurelius", "subject" : "Courage"}
+{"qoute" : "Man is by nature a political animal." , "writer" : "Aristotle", "subject" : "Politics"}
+{"qoute" : "Men do not value a good deed unless it brings a reward." , "writer" : "Ovid", "subject" : "Philosophy"}
+{"qoute" : "If you wish to reach the highest, begin at the lowest." , "writer" : "Publilius Syrus", "subject" : "Philosophy"}
+{"qoute" : "It is a descending stream of pure activity which is the dynamic force of the universe." , "writer" : "Kabbalah", "subject" : "Philosophy"}
+{"qoute" : "All human actions have one or more of these seven causes; chance, nature, compulsions, habit, reason, passion, desire." , "writer" : "Aristotle", "subject" : "Philosophy"}
+{"qoute" : "Tragedy is thus a representation of an action that is worth serious attention, complete in itself and of some amplitude—by means of pity and fear bringing about the purgation of such emotions." , "writer" : "Aristotle", "subject" : "Philosophy"}
+{"qoute" : "To talk goodness is not good—only to do it is." , "writer" : "Chinese proverb", "subject" : "Philosophy"}
+{"qoute" : "I am a man, I count nothing human foreign to me." , "writer" : "Terence", "subject" : "Philosophy"}
+{"qoute" : "To be doing good deeds is man's most glorious task." , "writer" : "Sophocles", "subject" : "Philosophy"}
+{"qoute" : "A tree is known by its fruit; a man by his deeds. A good deed is never lost, he who sows courtesy reaps friendship and he who plants kindness gathers love." , "writer" : "Basil", "subject" : "Philosophy"}
+{"qoute" : "How can he get wisdom whose talk is of bullocks?" , "writer" : "Ecclesiasticus 38:25", "subject" : "Philosophy"}
+{"qoute" : "Anyone can hold the helm when the sea is calm." , "writer" : "Publilius Syrus", "subject" : "Courage"}
+{"qoute" : "They are able because they think they are able." , "writer" : "Virgil", "subject" : "Courage"}
+{"qoute" : "There are as many opinions as there are people: each has his own correct way." , "writer" : "Terence", "subject" : "Philosophy"}
+{"qoute" : "A man is a wolf rather than a man to another man, when he hasn't yet found out what he's like." , "writer" : "Plautus", "subject" : "Philosophy"}
+{"qoute" : "O fool fool! The pains which thou takest to hide what thou art are far more than would make thee what thou wouldst seem; and the children of wisdom shall mock at thy cunning when, in the midst of security thy disguise is stripped off, and the finger of derision shall point thee to scorn." , "writer" : "Akhenaton", "subject" : "Philosophy"}
+{"qoute" : "The life so short, the craft so long to learn." , "writer" : "Hippocrates", "subject" : "Philosophy"}
+{"qoute" : "Knowledge without justice ought to be called cunning rather than wisdom." , "writer" : "Plato", "subject" : "Philosophy"}
+{"qoute" : "There are many wonderful things, and nothing is more wonderful than man." , "writer" : "Sophocles", "subject" : "Philosophy"}
+{"qoute" : "Do not be frightened or bewildered by the luminous, brilliant, very sharp and clear light of supreme wisdom." , "writer" : "Tibetan Book of the Dead", "subject" : "Courage"}
+{"qoute" : "Even as a caterpillar, when coming to an end of a blade of grass, reaches out to another blade of grass and draws itself over to it, in the same way the Soul, leaving the body and unwisdom behind, reaches out to another body and draws itself over to it." , "writer" : "Upanishads", "subject" : "Philosophy"}
+{"qoute" : "It is fortune, not wisdom, that rules man's life." , "writer" : "Cicero", "subject" : "Philosophy"}
+{"qoute" : "True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate and doubteth not; he knoweth all things but his own ignorance." , "writer" : "Akhenaton", "subject" : "Philosophy"}
+{"qoute" : "Poetry is something more philosophical and more worthy of serious attention than history." , "writer" : "Aristotle", "subject" : "Philosophy"}
+{"qoute" : "Great doubts deep wisdom. Small doubts little wisdom." , "writer" : "Chinese proverb", "subject" : "Philosophy"}
+{"qoute" : "Where fear is present, wisdom cannot be." , "writer" : "Lactantius", "subject" : "Philosophy"}
+{"qoute" : "Into deep darkness fall those who follow action. Into deeper darkness fall those who follow knowledge. There are worlds of no joy, regions of utter darkness. To those worlds go after death those who in their unwisdom have not wakened up to light." , "writer" : "Upanishads", "subject" : "Philosophy"}
+{"qoute" : "As the kindled fire consumes the fuel, so in the flame of wisdom the embers of action are burnt to ashes." , "writer" : "Bhagavad Gita", "subject" : "Philosophy"}
+{"qoute" : "The man who makes everything that leads to happiness depend upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom." , "writer" : "Plato", "subject" : "Philosophy"}
+{"qoute" : "Money has no smell." , "writer" : "Emperor Vespasian", "subject" : "Philosophy"}
+{"qoute" : "Nothing can be created out of nothing." , "writer" : "Lucretius", "subject" : "Philosophy"}
+{"qoute" : "Silence at the proper season is wisdom, and better than any speech." , "writer" : "Plutarch", "subject" : "Philosophy"}
+{"qoute" : "On life's journey faith is nourishment, virtuous deeds a shelter, wisdom is the light by day and right mindfulness is the protection by night. If a man lives a pure life nothing can destroy him, if he has conquered greed nothing can limit his freedom." , "writer" : "Buddha", "subject" : "Philosophy"}
+{"qoute" : "By suffering comes wisdom." , "writer" : "Aeschylus", "subject" : "Philosophy"}
+{"qoute" : "To be satisfied with a little, is the greatest wisdom; and he that increaseth his riches, increaseth his cares; but a contented mind is a hidden treasure, and trouble findeth it not." , "writer" : "Akhenaton", "subject" : "Philosophy"}
+{"qoute" : "Observation, not old age, brings wisdom." , "writer" : "Publilius Syrus", "subject" : "Philosophy"}
+{"qoute" : "As long as you watch the way, As long as your steps are steady, As long as your wisdom is unimpaired. So long will you reap profit." , "writer" : "Nagarjuna", "subject" : "Philosophy"}
+{"qoute" : "The king of truth is the king of kings. His ancestry is of the purest and the highest. He not only rules the four quarters of the world, but he is also lord of wisdom and protector of all virtuous teachings." , "writer" : "Buddha", "subject" : "Politics"}
+{"qoute" : "Purity engenders wisdom, passion avarice, and ignorance folly, infatuation and darkness." , "writer" : "Bhagavad Gita", "subject" : "Philosophy"}
+{"qoute" : "Virtue consists in avoiding vice, and is the highest wisdom." , "writer" : "Horace", "subject" : "Philosophy"}
+{"qoute" : "Get wisdom; and with all thy getting get understanding." , "writer" : "Proverbs", "subject" : "Philosophy"}
+{"qoute" : "What's been said is enough for anyone with sense." , "writer" : "Plautus", "subject" : "Philosophy"}
+{"qoute" : "By wisdom a house is built, and by understanding it is established; by knowledge the rooms are filled with all the precious and pleasant riches. A wise man is mightier than a strong man; and a man of knowledge than he who has strength." , "writer" : "Proverbs", "subject" : "Philosophy"}
+{"qoute" : "Laws are like spiders' webs: if some poor weak creature comes up against them, it is caught; but a bigger one can break through and get away." , "writer" : "Solon", "subject" : "Politics"}
+{"qoute" : "Just as treasures are uncovered from the earth, so virtue appears from good deeds, and wisdom appears from a pure and peaceful mind. To walk safely through the maze of human life, one needs the light of wisdom and the guidance of virtue." , "writer" : "Buddha", "subject" : "Philosophy"}
+{"qoute" : "Philosophy, rightly defined, is simply the love of wisdom." , "writer" : "Cicero", "subject" : "Philosophy"}
+{"qoute" : "Heaven's eternal wisdom has decreed that man should ever stand in need of man." , "writer" : "Theocritus", "subject" : "Philosophy"}
+{"qoute" : "We are more curious about the meaning of dreams than about things we see when awake." , "writer" : "Diogenes", "subject" : "Philosophy"}
+{"qoute" : "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment and all wisdom and virtue will naturally come to him." , "writer" : "Buddha", "subject" : "Philosophy"}
+{"qoute" : "Know thyself." , "writer" : "Temple of Apollo at Delphi", "subject" : "Philosophy"}
+{"qoute" : "Thou, man, alone canst speak. Wonder at thy glorious prerogative; and pay to Him who gave it to thee a rational and welcome praise, teaching thy children wisdom, instructing the offspring of thy loins in piety." , "writer" : "Akhenaton", "subject" : "Philosophy"}
+{"qoute" : "In seeking wisdom thou art wise; in imagining that thou hast attained it—thou art a fool." , "writer" : "The Talmud", "subject" : "Philosophy"}
+{"qoute" : "A short saying oft contains much wisdom." , "writer" : "Sophocles", "subject" : "Philosophy"}
+{"qoute" : "I grow old ever learning many things." , "writer" : "Solon", "subject" : "Philosophy"}
+{"qoute" : "By three methods we may learn wisdom: first, by reflection, which is noblest; second, by imitation, which is the easiest; and third, by experience, which is the bitterest." , "writer" : "Confucius", "subject" : "Philosophy"}
+{"qoute" : "True wisdom consists not in seeing what is immediately before our eyes, but in foreseeing what is to come." , "writer" : "Terence", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is the conqueror of fortune." , "writer" : "Juvenal", "subject" : "Philosophy"}
+{"qoute" : "Probable impossibilities are to be preferred to improbable possibilities." , "writer" : "Aristotle", "subject" : "Philosophy"}
+{"qoute" : "He whose wisdom exceeds his works, to what may he be likened? To a tree whose branches are numerous but whose roots are few. The wind comes along and it uproots it and it sweeps down." , "writer" : "The Talmud", "subject" : "Philosophy"}
+{"qoute" : "Perfect wisdom has four parts: Wisdom, the principle of doing things aright. Justice, the principle of doing things equally in public and private. Fortitude, the principle of not fleeing danger, but meeting it. Temperance, the principle of subduing desires and living moderately." , "writer" : "Plato", "subject" : "Philosophy"}
+{"qoute" : "Call no man happy till he dies, he is at best but fortunate." , "writer" : "Solon", "subject" : "Philosophy"}
+{"qoute" : "The fool who knows his foolishness, is wise at least so far, but a fool who thinks himself wise, he is called a fool indeed." , "writer" : "The Dhammapada", "subject" : "Philosophy"}
+{"qoute" : "Wise men talk because they have something to say; fools talk because they have to say something." , "writer" : "Plato", "subject" : "Philosophy"}
+{"qoute" : "Wise men learn more from fools than fools from the wise." , "writer" : "Cato the Elder", "subject" : "Philosophy"}
+{"qoute" : "Let them hate, so long as they fear." , "writer" : "Accius", "subject" : "Politics"}
+{"qoute" : "And those people should not be listened to who keep saying the voice of the people is the voice of God." , "writer" : "Alcuin", "subject" : "Politics"}
+{"qoute" : "Even God cannot change the past." , "writer" : "Agathon", "subject" : "Philosophy"}
+{"qoute" : "Whenever God prepares evil for a man, He first damages his mind." , "writer" : "Sophocles", "subject" : "Philosophy"}
+{"qoute" : "Plato is dear to me, but dearer still is truth." , "writer" : "Aristotle", "subject" : "Philosophy"}
+{"qoute" : "To be fond of learning is near to wisdom; to practice with vigor is near to benevolence: and to be conscious of shame is near to fortitude. He who knows these three things knows how to cultivate his own character." , "writer" : "Confucius", "subject" : "Philosophy"}
+{"qoute" : "Give me chastity and continency—but not yet!" , "writer" : "St. Augustine", "subject" : "Philosophy"}
+{"qoute" : "As one acts and conducts himself so does he become. The doer of good becomes good. The doer of evil becomes evil. One becomes virtuous by virtuous action, bad by bad action." , "writer" : "Upanishads", "subject" : "Philosophy"}
+{"qoute" : "Never less idle than when wholly idle, nor less alone than when wholly alone." , "writer" : "Cicero", "subject" : "Philosophy"}
+{"qoute" : "He whose fear of sin takes precedence over his wisdom, his wisdom will endure; but he whose wisdom takes precedence over his fear of sin, his wisdom will not endure. He whose works exceed his wisdom, his wisdom will endure; but he whose wisdom exceeds his works, his wisdom will not endure." , "writer" : "The Talmud", "subject" : "Philosophy"}
+{"qoute" : "History is philosophy from examples." , "writer" : "Dionysius of Halicarnassus", "subject" : "Philosophy"}
+{"qoute" : "If I am not for myself who is for me; and being for my own self what am I? If not now when?" , "writer" : "Hillel the elder", "subject" : "Philosophy"}
+{"qoute" : "Everything flows and nothing stays." , "writer" : "Heraclitus", "subject" : "Philosophy"}
+{"qoute" : "Just as a flower which seems beautiful and has color but no perfume, so are the fruitless words of the man who speaks them but does them not." , "writer" : "The Dhammapada", "subject" : "Philosophy"}
+{"qoute" : "Heaven and Earth are not ruthful; To them the Ten Thousand Things are but as straw dogs." , "writer" : "Lao Tse", "subject" : "Philosophy"}
+{"qoute" : "Once sent out a word takes wing irrevocably." , "writer" : "Horace", "subject" : "Philosophy"}
+{"qoute" : "Lovely it is, when the winds are churning up the waves on the great sea, to gaze out from the land on the great efforts of someone else." , "writer" : "Lucretius", "subject" : "Philosophy"}
+{"qoute" : "Whom the gods love dies young." , "writer" : "Menander", "subject" : "Philosophy"}
+{"qoute" : "Anyone can stop a man's life, but no one his death; a thousand doors open on to it." , "writer" : "Seneca", "subject" : "Philosophy"}
+{"qoute" : "He who cheats with an oath acknowledges that he is afraid of his enemy, but that he thinks little of God." , "writer" : "Plutarch", "subject" : "Philosophy"}
+{"qoute" : "Let him who desires peace, prepare for war." , "writer" : "Vegetius", "subject" : "Politics"}
+{"qoute" : "A living dog is better than a dead lion." , "writer" : "Ecclesiastes 9:4", "subject" : "Philosophy"}
+{"qoute" : "The teachings of elegant sayings should be collected when one can. For the supreme gift of words of wisdom, any price will be paid." , "writer" : "Nagarjuna", "subject" : "Philosophy"}
+{"qoute" : "Drink is the curse of the land. It makes you fight with your neighbor. It makes you shoot at your landlord. And it makes you miss him." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wind in one's face makes one wise." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Pride goes before destruction, and an haughty spirit before a fall." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The older the fiddle the sweeter the tune." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "What's good for the goose is good for the gander." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A stitch in time saves nine." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "If you lie down with dogs you'll rise with fleas." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Boast not of tomorrow; for who knows what tomorrow may bring." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Wisdom excels folly, as far as light excels darkness." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "There never was an old slipper but there was an old stocking to match it." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Firelight will not let you read fine stories, but it's warm and you won't see the dust on the floor." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "It's no use carrying an umbrella if your shoes are leaking." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The best way to keep loyalty in a man's heart is to keep money in his purse." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Humor to a man is like a feather pillow. It is filled with what is easy to get but gives great comfort." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A trout in the pot is better than a salmon in the sea." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "One pair of good soles is better than two pairs of good uppers." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "New brooms sweep clean." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Least said, soonest mended." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "One beetle recognizes another." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "He that repeats gossip separates friends." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Answer not a fool according to his folly." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A silent mouth is sweet to hear." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A nod is as good as a wink to a blind horse." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "No matter how often a pitcher goes to the water it gets broken in the end." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "There are finer fish in the sea than have ever been caught." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "You'll never plough a field by turning it over in your mind." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The old pipe gives the sweetest smoke." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "You must crack the nut before you can eat the kernel." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Every patient is a doctor after his cure." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Neither give cherries to pigs nor advice to fools." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "All marriages are happy. It's having breakfast together that causes the trouble." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A scholar's ink lasts longer than a martyr's blood." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Take gifts with a sigh, most men give to be paid." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A wounded spirit is the heaviest load to bear." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A good name is rather to be chosen than great riches." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Riches make themselves wings." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "As cold waters to a thirsty soul, so is good news from a far country." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Only a fool is scornful of the commonplace." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Ask no questions, hear no lies." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Wisdom and virtue are like the two wheels of a cart." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Wise is the man who has two loaves, and sells one to buy a lily." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Great wits have short memories." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The jealous ear hears all." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Seize the day!" , "writer" : "Proverb", "subject" : "Courage"}
+{"qoute" : "If there was no low there would be no high." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The best wine comes out of an old vessel." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Trouble brings experience and experience brings wisdom." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Good broth may be made in an old pot." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "An old cart well used will outlast a new one abused." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "An old ox makes a straight furrow." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Where age is evil youth can learn no good." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "One man's meat is another man's poison." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Fortune favors fools." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Better be a fool than a knave." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Young men think old men to be fools, and old men know young men to be so." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The fool asks much, but he is more fool who grants it." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Once mad never wise." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "He has great need of a fool, that plays the fool himself." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "He is a fool that forgets himself." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Make not a fool of yourself to make others merry." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "He is a fool that thinks not that another thinks." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Wise men make proverbs and fools repeat them." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A fool believes everything." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Wise men learn from other men's harms; fools by their own." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A fool and his money are soon parted." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Better not promise, than to promise and not pay." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Only fools rejoice at promises." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The sleep of a laboring man is sweet." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "In the day of prosperity be joyful, but in the day of adversity consider." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A man hath no better thing under the sun than to eat, and to drink, and to be merry." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Be not curious in unnecessary matters: for more things are shown than men understand." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Don't be made a beggar by banqueting upon borrowing." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The stroke of the whip maketh marks in the flesh; but the stroke of the tongue breaks bones." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Envy and wrath shorten the life." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "An empty vessel makes the most noise." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "If fools didn't go to market, bad wares would not be sold." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A bird in the hand is worth two in the bush." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Every beetle is a gazelle in the eyes of its mother." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A fool's tongue is long enough to cut his own throat." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Every ass likes to hear himself bray." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Lend only that which you afford to lose." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Don't judge by appearances." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A fool may give a wise man counsel." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A fool may ask more questions in an hour than a wise man can answer in seven years." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "There is no rest for the wicked." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Folly and learning often dwell together." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The devil will find work for idle hands to do." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Children and fools have merry lives." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "He that digs a pit shall fall into it." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "All good things must come to an end." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "When the blind lead the blind both will fall into the ditch." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Don't count your chickens before they hatch." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A truly great man never puts away the simplicity of a child." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A trouble shared is a trouble halved." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Believe nothing of what you hear, and only half of what you see." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Eat to live, do not live to eat." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Learning is a treasure which accompanies its owner everywhere." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A still tongue makes a wise head." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Keep something for a rainy day." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "More haste less speed." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Love righteousness, ye that be judges of the earth." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A merry heart makes a cheerful countenance." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Moderation in all things." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Old sins cast long shadows." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "You can't please all of the people all of the time." , "writer" : "Proverb", "subject" : "Politics"}
+{"qoute" : "Fools live poor to die rich." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "You can lead a horse to water but you can't make him drink." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Learn to walk before you try to run." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Keep your mouth shut and your eyes open." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "If you play with fire you will get your fingers burnt." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Honesty is the best policy." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "He that is his own lawyer has a fool for a client." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "A good scare is worth more than good advice." , "writer" : "Proverb", "subject" : "Courage"}
+{"qoute" : "It will all be the same in a hundred years." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "He travels fastest who travels alone." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Knowledge is the mother of all virtue; all vice proceeds from ignorance." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "He that knows little, often repeats it." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Good fences make good neighbors." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Throw enough dirt and some of it will stick." , "writer" : "Proverb", "subject" : "Politics"}
+{"qoute" : "Out of debt, out of danger." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Out of sight, out of mind." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "The road to hell is paved with good intentions." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "Time and tide wait for no man." , "writer" : "Proverb", "subject" : "Philosophy"}
+{"qoute" : "I have learned throughout my life as a composer chiefly through my mistakes and pursuits of false assumptions, not by my exposure to founts of wisdom and knowledge." , "writer" : "Igor Stravinsky", "subject" : "Philosophy"}
+{"qoute" : "Each of us is the author of our own story and there's a new page to be written every single day." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To those with wisdom, happiness is not about getting what you want, it's about wanting what you've got." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You cannot shake hands with a clenched fist." , "writer" : "Indira Gandhi", "subject" : "Politics"}
+{"qoute" : "Learn from the politician. When you throw dirt at those you oppose all you do is lose ground." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Choose to be positive." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Whatever you do, the world is watching." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "If you wish to be understood say exactly what you mean." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We cannot do great things. We can only do little things with great love." , "writer" : "Mother Theresa", "subject" : "Philosophy"}
+{"qoute" : "It is wiser to concentrate on the effort not the outcome." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise know that patience will often achieve far more than force." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "I don't think it would be wise to place four hundred people in a metal tube with wings and send it into the air." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "I don't think it would be wise to place a family in a metal box on wheels and send them down flat surfaces at 70 mph." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "I don't think it would be wise to try and get to the moon." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "I don't think it would be wise to try and open a man's chest and fiddle with his heart." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It is just as important to follow your dream through the bad times as the good times." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Success never comes to look for you while you wait around." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Anyone is entitled to have their opinion of you, but do not take it to heart. It is your own opinion of yourself that matters." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Forgiveness is not an occasional act; it is a permanent attitude." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't get bogged down in what the critics have to say." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Every single day great things are done by ordinary people." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "What is right is not always popular but it would be unwise to do what is not right, however popular it might be." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Success lies in everyone." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A man's own natural duty, even if it seems imperfectly done, is better than work not naturally his own, even if it is well-performed." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is not wise to be reckless with others, or to stand alone, stubborn against the multitude." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Have the courage to be wise—the path of wisdom is not an easy one to follow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Genius is about developing the ability to perceive in an unhabitual way." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The heart seems to have its reasons which even reason cannot understand." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are those who seek to destroy and discredit you. Let them try, they can only make you stronger." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Knowledge is the ultimate antidote to fear." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Well goes the case when wisdom counsels." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is the most invincible kind of strength, it lends the highest authority to action." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Don't concentrate on the folly of others—he is not wise who is not wise for himself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom teaches the value of things and the wise person cares not for what they cannot have." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is a great point of wisdom to find out one's own folly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Learning is not wisdom—you can learn to pick a lock or steal a neighbor's car but it would be wiser to do neither." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Riches serve a wise man but command a fool." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The fool wanders, the wise man travels." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise seek wisdom, a fool has found it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "He that is a wise man by day is no fool by night." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A wise man may change his mind frequently while the fool stands fast, determined not to do so." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A wise man needs not blush for changing his purpose." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No man can play the fool so well as the wise man." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise propose, but fools determine." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Reason governs the wise man and cudgels the fool." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The first degree of folly is to hold oneself wise, the second to profess it, the third to despise counsel." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Trouble brings experience and experience brings wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom will only increase with attempts made to destroy it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No one can be wise at all times, and even the wisest man may fall." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Next time you consider fleeing from a problem, consider the acorn. It stood firm and it became an oak tree." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Before you can hope to be wise you must start at the very beginning, and learn to see things as they truly are." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Problems need solutions. Solutions breed new problems." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Salvation is a process that begins on earth and ends in eternity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The process of salvation must come from within." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Salvation is not putting a man into heaven, but putting heaven into a man." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The cure for false theology is common sense." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We are reborn into this world every time we wake; there is daily the chance to make a new start and live a new life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A thing cannot be and not be. Do not be fooled by illusion and false promises." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is about looking outward as much as looking inward, and looking forward as much as looking backward." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "With every opportunity that is missed, another one is born." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Most duels have their winner but the one that will go on forever is the duel between yes and no." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can melt ice to make cold water, you can heat the cold water to make hot water, but it cannot be all three at once." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Freedom travels slowly—from precedent to precedent." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Wisdom lies in knowing when, and when not, to act." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is knowing which questions to ask." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise person knows that no answer is also an answer." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Complete wisdom is as rare as complete folly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man will always make more opportunities than he finds." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't be so determined in your pursuit of wisdom that you forget to live a little along the way." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man does not laugh to avoid weeping." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are those who build houses to live in and those who build houses for others to look at." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is like the darkness. In darkness all colors can agree." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When you live your life in a world of illusion it is good to know which door to go through to get back to reality." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise avoid short-term measures. Short-term measures taken today become the long-term problems of the future." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Understand that although we may well wish to do what we are supposed to do, circumstances will conspire to ensure that it is not always possible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is best seen in hindsight." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise person knows that there is sometimes more power in words left unsaid." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Words are potent weapons for all causes, good or bad." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Procrastination is the thief of time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is perhaps our delusions of adequacy which lead us to let not only ourselves but others down." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To speak, and to speak well, are two things. A fool may talk, but a wise man speaks." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Admire genius but beware—when genius is around everything is at risk." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Genius is not the same thing as wisdom. Genius is a gift, wisdom is a craft." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A true friend is one who knows all about you and who chooses to love you just the same." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you can understand just one thing thoroughly, then you will understand everything." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wise words don't come cheap." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A man who can see will move forward more surely than a blind man with a trustworthy guide." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "He that is truly wise and great, lives both too early and too late." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Better an empty room than a bad lodger." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The only thing that the truly wise person can be sure of is that they know nothing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise person is always willing to see with the eyes of a child." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom suffocates in a closed mind." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One cannot make all the clever people good—neither is it possible to make all the good people clever." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There is no bigger fool than the person that boasts of their wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There is great wisdom in being able to realize that you don't understand something before it goes too far." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man is like a tree whose roots are fed from the earth while its branches rise toward heaven." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is far better to be than to know." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "They that are truly wise never finish learning." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is about learning not to see what is not, as well as what is." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Tomorrow is worth more than yesterday but less than today." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To have a purpose is the greatest gift of life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To allow yourself to be happy is the greatest wisdom there is." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise will spot the moment when the opponent, unable to convince, attempts to confuse." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Why should it be so difficult for us to admit we are wrong when there is nothing more helpful to resolving a problem than doing so?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Choosing the path of wisdom is not the easy option." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Give your all to the thing that is in front of you and once done, do the same with the thing behind it, and the next, and the next." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you start something—finish it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Thought comes free to those with no money." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You only get out of life what you are prepared to put into it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is far better to keep your mouth shut and be considered a fool by others rather than open it and remove all their doubts!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can't keep a good man down." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Always admit it when you're wrong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you want to win the race—run faster than anybody else." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Try not to make a major decision when you are tired—or drunk." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The bigger they come the harder they fall." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are those that sit and talk about what they dream of doing and others who go out and do something about it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "You may think that you can't have your cake and eat it—but sometimes you can." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The more I want to get something done, the less I call it work." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Try not to make heavy weather of things." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you overestimate or underestimate the value of personal relationships you may be in for a shock." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Before you act, think about what effect your actions will have." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Be careful if you don't know where you're going—you may never get there." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Misfortune never misses." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The same earth can become a hole and a hill at the same time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Conclusions usually happen when we're tired of thinking." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A celebrity is a person who is known merely for being well known." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It takes great wisdom to admit that something is impossible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When I don't know what I'm doing—I am doing research." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you want to be a winner you must keep on competing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Don't hang your targets after you've done your shooting." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Your feet might get muddy but you won't get your hands dirty reaching for the stars." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Experts, it seems, know more about less and absolutely everything about nothing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Everybody has their day, it's just that some days seem to last longer than others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can win by telling lies or be defeated on principle." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Freedom is a chance to be even better." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "If you don't like pressure stay away from jewelers." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can't know you've reached the boundaries of what is possible without going beyond into the realm of the impossible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The world, it seems, has become addicted to self-improvement—but is it any better for it?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Embrace change—don't run from it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Every man is an architect, each designing their future, always running late and over budget and rarely getting the chance to enjoy the result." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "95% of our time seems to be focused upon the problems and only 5% on finding solutions." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Reality has a way of cramping some people's style." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Consider the man who dug so long for treasure, that he missed the treasure of life and his hole became his grave." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Are you hesitating or simply nailed to the floor?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Einstein said 'The secret to creativity is knowing how to hide your sources.'" , "writer" : "Albert Einstein", "subject" : "Philosophy"}
+{"qoute" : "Most of life is choice—the rest is pure luck." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't spend so long concentrating on putting one foot in front of the other that you forget to look where you are going." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Words can be extremely useful when ideas fail." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There will always be people who are against you whether you are right or wrong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Success does not always equal skill." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "More important than seeing the future is knowing the present." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Things always seem to take longer than you expect, even when you allow additional time in just such an expectation." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Man's desires are insatiable." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There's no such thing as a free ride." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can take any road you like, but if you don't know where you're going, that's where you'll end up." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Man does before he speaks before he thinks." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Learn to expect to get what you deserve rather than what you want." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "With love and patience, nothing is impossible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "When will we learn that the world rules us—we can't rule the world." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "You can't predict your future but you can invent it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Wisdom is being able to foretell a mistake and avoid it. Experience is recognizing the same mistake every time you make it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise general looks at all the battles that matter and commits to the one he can win." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Don't let fear stop you." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The average person thinks he isn't average at all." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The boxer is not afraid of being knocked down—he's afraid of not being able to get up again." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Be nice to the people you meet on your way up, you're bound to bump into them again on your way down." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We live in an insecure world filled with opportunity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Better an authentic loser than a false success." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's a poor show when the leader is struggling to catch up with the others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "It took a particular kind of wisdom to look out across all that sea and know there would be land to discover." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "We are all actors in our own lives—and there are no understudies." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is gleaned from those who, through history, have chosen to write about what mankind has done and not about what he ought to have done." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise accept that fortunes come tumbling into some men's laps." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Hope might be a good breakfast, but it makes a very poor supper." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Riches should serve a purpose, rather than the purpose serve them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Death is the least of all evils." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is not the lie that passes from your mind, but the one that sinks in and takes root that does the greatest harm." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The sooner we can accept that the things that we think and feel are mostly quite normal and commonplace, the sooner we can be truthful about ourselves." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In the kingdom of the blind the one-eyed man is king." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is a treasure for all time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "What hope is there when people, even in front of the evidence, turn their head?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never forsake old friends for new." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Old age is like a plane flying through a storm. Once you're aboard there's nothing you can do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't think—do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Freedom means nothing if its meaning is misunderstood." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Make reason your guide." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is often the small actions of our daily lives that, over time, have the greatest influence on the world." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Act in the living present." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To stand still on the summit of perfection is difficult, and in the natural course of things, what cannot go forward slips back." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is the supreme part of happiness." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Genius is about the conquering of chaos and mystery." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is about being able to break an enemy's resistance without the need for fighting." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "To live in fear of death is many times to die." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom lies in thoughts not things." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can be shown the path to wisdom, but only you can make the first step." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "There is nothing nobler than humanity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Nothing great has ever been achieved without enthusiasm." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Those who spend their time worrying about what people think of them wouldn't worry if they knew how rarely other people think of them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One thought can change the world." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wiser you become the less you admit to knowing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man knows it's all just a game." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Only one person can tell you what wisdom means, and that is you." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Remember. You are the master of your own fate, the captain of your own soul." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Motion is motion and action is action. Never mistake one for the other." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Freedom of the mind is the greatest form of freedom that exists." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Wisdom is its own reward." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom is knowing that silence often speaks louder than words." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The question to ask yourself is this: If life would let you attempt to do something that you knew would not fail, what would it be?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One enemy is too many—one hundred friends are too few." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There is no strength in absence." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In order to become better than anybody else you must first become better than yourself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Wisdom is one word that means something different to everyone." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Life is like a game of cards. It's not so much about what you're holding but how you play what you've been dealt." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never allow what you cannot do interfere with what you can do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "If you pray for rain, be prepared to be struck by lightning." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Life involves passions, faiths, doubts, and courage—in unequal measures." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The easiest person to deceive is yourself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No matter how simple the task, there is always someone who will find the wrong way to do it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Whether it's bad, or good, it won't last long." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Do, or do not. There is no try." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It is often better to delay than get it wrong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Compromise does not mean cowardice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Life is filled with insurmountable opportunities." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's extremely difficult to fake wisdom—even if you're very good at pretending to be serious." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Monuments are made to those who don't need them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's not what they take away from you but what you do with the rest." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The most frightening thing about any given situation is being able to do nothing about it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A man who has made a mistake and doesn't correct it, is making another mistake." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Twenty years from now you will be more disappointed by the things you didn't do than by the things you did do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The best medicine in life is a faithful friend." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Opportunities multiply as they are seized." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Enemies come to those who make changes." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "If you set off in search of the pot of gold at the end of the rainbow make sure that you know which end it's at." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never go to bed thinking about what to complain about tomorrow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Good advice is rather like medicine—it might leave an unpleasant taste in the mouth but it can do a lot of good." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It may be possible to deceive those better than you but never your peers." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You will never be disappointed if you go through life always expecting the worst, but you'll miss out on a lot of fun along the way." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Silence is the cornerstone of character." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Put yourself out on a limb now and then, that way you'll stand a chance of reaching the fruit." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Do what you've always done and you will always be what you have always been." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Try once—this will help you to get over the fear of doing something. Try twice—this will enable you to learn to do it. Try three times—this way you will be able to see if you like doing it or not." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Begin at once to live, and count each separate day as a separate life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Readiness is all." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "When the time comes to tell your children how it is they came to be born it would be wise to know the reason." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Love thy neighbor as thyself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Count your blessings and not another's." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Try and do one thing each day that you would really rather not do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "You can't do better than your best." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is better to lead by example than by decree." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Hold on to your friends for friendship is the most important thing in times of adversity as well as in times of happiness." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Read much, but draw your own conclusions." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It doesn't matter what you do in life so long as you do it as well as possible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To your own self be true." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Enjoy your work or find work you can enjoy." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You've got a brain, so use it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Always listen to children." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never contend with a man who has nothing to lose." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Live to study don't study to live." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never do yourself the thing that you criticize in others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't walk on thin ice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When your past life chills you, burn a few bridges and warm yourself in the flames." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "When you don't have a solution you can always admire the problem." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is better to be alone than to be found in bad company." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't wait until the roses wither before you place them in your hair." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "He who has begun his task is half way done. Have the courage to begin!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Dare to live—don't just spend your life avoiding death." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Don't do anything which will cause you fear if it becomes known to your neighbor." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When in doubt if an action is good or bad, refrain." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is unwise to take more in life than you can use." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Choose how to act when there is a clear choice between good and bad consequences." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Live well, laugh often, and love much." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Try to make your prologues shorter than your stories." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't just criticize, go and help." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't waste your energy in being indignant." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you don't accept defeat you cannot be defeated." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "In all respects, and with all people, treat others as you yourself wish to be treated." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Always own up. Errors multiply when concealed." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's fine to believe in miracles but fatal to come to rely upon them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When everybody is busy beating their own drum, the important thing is to march to the beat of yours and not someone else's." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Take care when taking advice from others." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you pretend to have knowledge that you don't possess you'd better avoid the experts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Do your best with what's on offer." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you have nothing pleasant to say about someone, it is best to say nothing at all." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Lose your temper and you lose the battle." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't yearn for the impossible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When you believe in a cause, never give up." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Be yourself—nobody can be you better than you." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't be damned by faint praise." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's no use trying to judge the earth." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Allow yourself to listen to the elderly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If on your journey you find only one thing, let it be your aim in life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Experience each day that dawns as if it was your first." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Live each day that dawns as if it is your last." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It is wise to follow the truth wherever it leads." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The lashes of the tongue are far more severe than any whip." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Dare to be wise; begin to live." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Save your money or spend it wisely." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you are certain you are right, go straight ahead." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Let nobody deter you from doing what you believe is right." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "You're every bit as good as the next person—all you've got to do is prove it!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Try to see yourself as others see you, and be prepared for a nasty surprise." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Always keep a few miles between you and your relations." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never resist a challenge." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "If there's something that you have always wanted to do but have been putting it off until the right time—do it, and do it now!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Never make a promise unless you mean to stick by it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You should never want something so badly that it hurts if you don't ever get it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Do right and you need fear no man." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It is not possible to get anxious about the past so there is little point in becoming depressed about the future." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Don't put off until tomorrow what you can do today." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Look at all things as they are." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is as well to create good precedents as to follow them." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In all human nature there exists less of the wise and more of the fool." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can defy everything but age. You will only look foolish if you try." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We all fail at many things, many times in this life but we don't become failures, until we start blaming someone else." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Never allow what you cannot do to interfere with what you can do." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Read, weigh, and consider." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In order to become better than anybody else you must first become better than yourself." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It's what you do with what you know that gets you paid!" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Fill your garden with fruits and it will always be filled with birdsong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Ensure that during your lifetime you do something for posterity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Choice is not always an easy option to choose." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Give yourself more alternatives and that way you will have more choice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The most important thing to know is your own mind." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Just as there are unhappy lies, so too there is happy invention." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Time does not stand still for anyone. As the times change, so too can you." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One should not always try to take giant leaps in life when the rest of mankind will be perfectly satisfied with every small step you take." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise never rush into despair—it is easier to find your way in than out." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Always have something positive to say." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Allow yourself only to forget through choice." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you fall seven times, stand up eight." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Live your life as though you intend to live forever. Conduct your affairs as though you expect to die tomorrow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is said that fools rush in. Sometimes it is best to wait and see." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you travel the path of your choice, be prepared to lend your critics a pen." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "If you want to set an example, try patience—for it is often perceived as genius." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When you can't seem to reach an agreement it is often wiser to agree to disagree." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Liberty is one of the greatest treasures to mankind. Never give up your liberties lightly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Your solitude should be voluntary." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Remember that the impossible takes a little bit longer." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "When your entire world seems upside down you can either attempt to put it right again or stand on your head." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Anybody with the capacity to please has the potential to annoy." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When you make a mistake, take another chance—only when you chose not to do so do you fail." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "A single moment of wrath can turn the universe to ashes." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Even the wise never know when coincidence might strike." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is a great gift to know when to remain silent." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Better a good loser than a bad winner." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you have to be something then be as it is you wish to seem." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Only the honorable can associate with the honorable." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Find friendship with yourself—until you can it will be difficult to find friendship with anyone else." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When people say they hate you for what you are, tell them that it feels better than being loved for what you are not." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "You can bet on a winning horse—but you can never bet enough on a winning horse." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If it's not worth doing then it's not worth doing well." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Bravery and stupidity go hand in hand." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "A powerful imagination is something to strive for." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The only ones who can fool all of the people all of the time are working for the leading advertising agencies." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "The boardroom is rather like the bedroom—only success in the boardroom can usually be achieved by faking sincerity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Man does ten times the work he used to do because he's come to realize that nine times out of ten he's wrong." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Good health and a bad memory for some spells of happiness." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Ignorance and confidence have led many to success." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Whichever way you look at it, in order to succeed another must fail." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "To motivate ourselves or indeed others, the quickest and most sure way is to take the imagination by storm." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It's no good wandering through life wanting to be someone, you have to be clear who that someone is." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are those who go through life never making an error and there are those who go through life making many undetected errors." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There are two approaches to life: The carelessly planned life that leads to everything taking three times longer than anticipated; and the carefully planned life, where everything only takes twice as long." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom tells us that the same mistake is likely to occur again." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "When a thing ceases to be a subject of controversy, it ceases to be a subject of interest." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Forgetting is equally as important as remembering." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "No true autobiography has been or will ever be written. We all have things that we are afraid to tell about ourselves." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You exercise your right of choice every time you choose not to decide." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "People spend a fortune on trying to improve their looks when the best beauty treatment comes free in the form of a smile." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The longest road out is the shortest road home." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Envy shortens life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Allowing yourself to be bored is a criminal waste of life." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A hero is a man who does what he can." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Love has the power to bring out the absolute best—and worst—in all of us." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Those who arrive at wisdom through failure tend to have a much deeper grasp of its value." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The busiest people do not always get the most done." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Solutions need problems just as problems need solutions." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Politicians have a unique method of redefining success each time they don't succeed." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "The gambler has a unique way of turning a thousand-to-one shot into a fifty-fifty chance." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is still quite possible to enjoy doing those things that we're not very good at." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Boldness has genius, power, and magic in it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Education is the key to freedom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Pride is the most dangerous enemy anyone can have, it destroys us from the inside out." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "They pay for your opinions and not your doubts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Who are we if the thoughts we think are someone else's?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Greater understanding increases the capacity for tolerance." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Where there is a feast of words there is often a famine of wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It takes a hell of a lot of knowledge to really know how little you know." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The fool sees a thing, the wise watch." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "They who have never loved, have never lived." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "What is most contrary to salvation is not sin but habit." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom after the event is no wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A mistake is not the same as an error. We can make a mistake and correct it but it would be an error to knowingly make a mistake and do nothing about correcting it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Desire is the stimulant of creativity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Experience is the mother of wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A still tongue makes a wise head." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Little things please little minds." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom needs caution and confidence in equal balance." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can of course quit while you're ahead—but quitters never win." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Everybody gets at least one opportunity in their life but it is often difficult to recognize it when it comes along." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "While the ambitious strive to get ahead, the wise simply try to do the job they've been given well." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "As a culture, we are too concerned with the spirit and have forgotten our soul." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Knowledge itself is power, power without wisdom is dangerous." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Those who don't know how to weep with their whole heart will never know how to laugh." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Some see life-long relationships and marriage as a destination while others view them as a means of traveling." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The most you can ever hope to do, is to do your best." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you can imagine the thing you fear you are half way to confronting it, if you confront the thing you fear you are half way to conquering it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "The good opinion of fools is not worth the wear of winning." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Follow your conscience." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Our intelligence is the thing that allows us to hold two opposing thoughts at the same time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Is it always reasonable to be reasonable?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We are the sum of our experiences." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Without the rain there would be no meadows, without the shadow there would be no sunshine, without the bitter there would be no sweet." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Good temper is sometimes more irritating than bad temper." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "All teachings that seek to bring our lives out from the darkness into the new light of being tend to leave great clouds of doubt." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Why is it that people insist on meeting a large and far reaching mind at its narrowest point?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise know that our judgement becomes impaired when our imagination goes blank." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Is it really possible to be less than God but more than man?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Revenge is a form of wild justice which merely doubles the original hurt." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Adversity has its hopes and comforts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "Vice is to prosperity what virtue is to adversity." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The world will always have the need for people who can imagine things that never were." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is perhaps unwise to only have your own company, for if you are always with yourself, you will inevitably become your own tormentor." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A closed mind is infinitely more difficult to open than a closed door." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Why is it that so many throughout history have been driven by the desire to seek power when it meant losing their liberty?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Severity breeds fear. Roughness breeds hate." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "The bold are bad at keeping promises." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom brings natural authority." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "With thought all our actions become intentional." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You can know light but can you imagine what will make light?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "In charity there is no such thing as excess." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Avoiding superstition is in itself a superstitious act." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "An open mind is the best traveling companion." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is dangerous to accept a cunning man as wise." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is not wise to argue with fools." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Some of the greatest thoughts in the history of mankind simply popped into people's heads unexpectedly." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The wise man does not set his house alight in his desire to eat toast." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "If you wish to save time, choose time." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "A crowd is the loneliest place to be." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Time is itself the greatest of innovators." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Suspicions are nocturnal creatures that inhabit the night-time of your thoughts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wealth is a burden, riches are for spending." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Some study for the pleasure of learning. Some study because it looks good on their resume. Some study because it gives them ability." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "He who knows little suspects much." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The mind is a garden that occasionally needs weeding." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The two most difficult moments of any project are the beginning and the end." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "The only path that will lead us out of servitude to freedom is thought." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Politics"}
+{"qoute" : "Any group or collective thought is only as strong as its weakest link." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Great acts are born of great thoughts." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It is impossible to learn and understand without thought." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "We are where our thoughts have taken us, and we are going where they will take us tomorrow." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Arouse the mind, it is your most powerful tool." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "It would be impossible to alter our life without first altering our thinking." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "All our fears of life and fears of death can be dispelled through knowledge." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "It takes great courage to avoid being touched by the centuries of evil doctrine that have accumulated around us." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "With thought comes reason yet reason is a slave to passion." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Our thoughts are a paradise to which we can return at will." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Wisdom grows from the same seed as common sense." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "You may be able to remember a great deal but are you wise enough to be able to forget?" , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Do not depend upon your memory alone, to do so will destroy your power of thought and it is thought that leads to wisdom." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Knowledge without wisdom is like a roof with no house beneath it." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Where there is learning untempered by experience, a weak judgement is to be discovered." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Imagination is creation." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Knowledge has a way of coming and going whereas wisdom tends to stick around." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Learn not to worry about things that you have no power to change." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Worrying is destructive thought." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Imagination is the key that winds up the spring of the possible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "One is always free to imagine." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "There is nothing quite so fulfilling as turning imagination into action." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Courage"}
+{"qoute" : "One has to adapt one's thinking to the question at hand." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Imagination is a whole other universe where anything is possible." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
+{"qoute" : "Any situation worth understanding is confusing." , "writer" : "A Thousand Paths to Wisdom", "subject" : "Philosophy"}
