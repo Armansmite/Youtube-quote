@@ -1,3 +1,38 @@
 [
-    {"id": "classic", "name": "Classic V1", "file": "classic.py"}
+  {
+    "id": "classic",
+    "name": "Classic V1",
+    "file": "classic.py",
+    "settings": {
+      "total_duration": {
+        "default": 7,
+        "type": "number",
+        "min": 5,
+        "max": 15,
+        "label": "Duration (seconds)"
+      },
+      "fade_duration": {
+        "default": 2,
+        "type": "number",
+        "min": 0.5,
+        "max": 3,
+        "step": 0.1,
+        "label": "Fade‑in (seconds)"
+      },
+      "max_quote_len": {
+        "default": 50,
+        "type": "number",
+        "min": 30,
+        "max": 100,
+        "label": "Max Quote Length"
+      },
+      "min_quote_len": {
+        "default": 0,
+        "type": "number",
+        "min": 0,
+        "max": 200,
+        "label": "Min Quote Length"
+      }
+    }
+  }
 ]
